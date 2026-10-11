@@ -1,0 +1,1558 @@
+granularity,prediction,reference,sim
+next_word,"""The","zombie,",0.3435264825820923
+next_word,'re,are,0.6675057411193848
+next_word,'s,isn't,0.5030346512794495
+next_word,",",!,0.7573182582855225
+next_word,",",and,0.5797879695892334
+next_word,",","atmosphere,",0.2880890667438507
+next_word,",",for,0.5696149468421936
+next_word,",",in,0.46330708265304565
+next_word,",",is,0.45477935671806335
+next_word,",",should,0.361332505941391
+next_word,",",via,0.2803100049495697
+next_word,",",while,0.4555262625217438
+next_word,",",💯,0.4792764186859131
+next_word,.,about,0.4221891760826111
+next_word,.,again.,0.40837234258651733
+next_word,.,and,0.5797879695892334
+next_word,.,from,0.4714879095554352
+next_word,.,just,0.49388253688812256
+next_word,1000-word,response,0.23218820989131927
+next_word,25.,my,0.26670995354652405
+next_word,3,3,1.0
+next_word,Access,you,0.2177739292383194
+next_word,Accessory,it,0.26369044184684753
+next_word,Address:,10,0.318644642829895
+next_word,Article,good,0.28614118695259094
+next_word,C++,speaking,0.2735463082790375
+next_word,Comparison,do,0.22361068427562714
+next_word,Customization,describe,0.31321606040000916
+next_word,DOES,DECLARATION,0.16424715518951416
+next_word,Description,are,0.3026905655860901
+next_word,Engine,Gap,0.30998495221138
+next_word,I,I,1.0
+next_word,I,can,0.39303532242774963
+next_word,I,give,0.33677423000335693
+next_word,I,this,0.47302621603012085
+next_word,I,you,0.7076898217201233
+next_word,Instructions,do,0.28278452157974243
+next_word,Instructions,is,0.13799722492694855
+next_word,Instructions,would,0.05177609995007515
+next_word,Name,is,0.36299827694892883
+next_word,OTHER,SQLSTATE,0.1097070649266243
+next_word,Python,Javascript,0.31061407923698425
+next_word,Python,synopsis,0.2593547999858856
+next_word,Python,the,0.24150848388671875
+next_word,Question,answers,0.5562237501144409
+next_word,Question,do,0.3720109164714813
+next_word,Question,tipping,0.2018429934978485
+next_word,Question,was,0.40669888257980347
+next_word,Question:,good..,0.22829051315784454
+next_word,"So,",I,0.5410550236701965
+next_word,Student,you,0.26939430832862854
+next_word,Sugg,Reeves,0.39694565534591675
+next_word,THE,A,0.5908037424087524
+next_word,The,Can,0.29027265310287476
+next_word,The,"However,",0.30706411600112915
+next_word,The,It,0.45887017250061035
+next_word,The,Multiply,0.23418912291526794
+next_word,The,looks,0.2905828058719635
+next_word,This,goes,0.35436683893203735
+next_word,What,Please,0.2554567754268646
+next_word,a,3,0.39744919538497925
+next_word,a,a,1.0
+next_word,a,an,0.9905216097831726
+next_word,a,assembler,0.3924423158168793
+next_word,a,fluoride,0.26167747378349304
+next_word,a,more,0.30181917548179626
+next_word,a,my,0.49939247965812683
+next_word,a,quantum,0.24238775670528412
+next_word,a,style,0.3576089143753052
+next_word,a,that,0.2635740637779236
+next_word,a,the,0.5908037424087524
+next_word,a,writing,0.3780101537704468
+next_word,about,about,1.0000001192092896
+next_word,about,be,0.31405097246170044
+next_word,about,in,0.4780119061470032
+next_word,about,of,0.5746225714683533
+next_word,add,add,0.9999998807907104
+next_word,against,against,1.0000001192092896
+next_word,also,it,0.3038521409034729
+next_word,an,in,0.4077736735343933
+next_word,and,and,1.0
+next_word,and,budget,0.24829189479351044
+next_word,and,by,0.40410682559013367
+next_word,and,for,0.5163361430168152
+next_word,and,the,0.36177483201026917
+next_word,and,way,0.31744715571403503
+next_word,andตุ,and,1.0
+next_word,answer,code,0.40135714411735535
+next_word,answer,design,0.316622793674469
+next_word,any,any,1.0000001192092896
+next_word,any,research,0.22395648062229156
+next_word,apps,apps,1.0000001192092896
+next_word,are,are,1.0000001192092896
+next_word,are,components,0.2746289074420929
+next_word,are,not,0.46727505326271057
+next_word,argument:,post:,0.2546933889389038
+next_word,as,as,1.0
+next_word,be,be,1.0
+next_word,be,help,0.2820444405078888
+next_word,between,between,1.0
+next_word,big,pun,0.2656708359718323
+next_word,bit,concept,0.20458291471004486
+next_word,cable,cable,1.0
+next_word,calculate,calculate,1.0000001192092896
+next_word,can,can,1.0
+next_word,can,understands,0.3931393623352051
+next_word,can't,need,0.3247380554676056
+next_word,can't.,gave,0.31488069891929626
+next_word,cannot,in,0.3517315983772278
+next_word,challenges,"requirements,",0.3741685450077057
+next_word,code,code,1.0
+next_word,convert,calculate,0.49906954169273376
+next_word,current,image,0.35086798667907715
+next_word,curve,above,0.1631687730550766
+next_word,curves,curves?,0.8848713636398315
+next_word,"customer,",person,0.5350517630577087
+next_word,data,actual,0.14731279015541077
+next_word,date,date,1.0
+next_word,detailed,entirely,0.4331815242767334
+next_word,details,status,0.3590201437473297
+next_word,determine,view,0.31168848276138306
+next_word,dishes.,burgers.,0.4511033892631531
+next_word,engineering,engineering,1.0000001192092896
+next_word,error,error,1.0000001192092896
+next_word,even,do,0.2885224521160126
+next_word,example,example,1.0
+next_word,expect?,face,0.2075289487838745
+next_word,explain,please,0.4667121469974518
+next_word,explain,write,0.3669244349002838
+next_word,extra,extra,1.0
+next_word,fantasy,distant,0.29808008670806885
+next_word,find,find,1.0000001192092896
+next_word,find,go,0.3056473135948181
+next_word,fire,I,0.30473071336746216
+next_word,first,basic,0.261257141828537
+next_word,following,moves,0.3559480905532837
+next_word,for,for,1.0000001192092896
+next_word,for,from,0.5579580068588257
+next_word,for,that,0.38977399468421936
+next_word,for,to,0.5664003491401672
+next_word,format:,format?,0.8943575620651245
+next_word,formula,function,0.4338777959346771
+next_word,from,from,1.0
+next_word,function:,SQL,0.2483176290988922
+next_word,functions,functions,1.0
+next_word,get,know,0.3836822211742401
+next_word,give,go,0.3951711356639862
+next_word,given,Python3,0.22754615545272827
+next_word,good,the,0.4106747806072235
+next_word,government,food,0.4059913754463196
+next_word,graphics?,3D,0.590235710144043
+next_word,had,plan,0.3174387216567993
+next_word,had,tried,0.4064878821372986
+next_word,happen,make,0.3516857326030731
+next_word,has,root,0.22109247744083405
+next_word,have,were,0.3129049241542816
+next_word,help,generate,0.2872365415096283
+next_word,help,heat,0.3054554760456085
+next_word,help,tell,0.3193370997905731
+next_word,how,demonstrating,0.3403797745704651
+next_word,how,how,1.0000001192092896
+next_word,how,why,0.480770468711853
+next_word,"human,","human,",0.9023557901382446
+next_word,iPhone,level,0.24322085082530975
+next_word,ic,and,0.2601686418056488
+next_word,ice?,some,0.289870023727417
+next_word,idea,idea,1.0
+next_word,important,events,0.3346882462501526
+next_word,important,mandatory,0.34437406063079834
+next_word,in,a,0.4183145761489868
+next_word,in,as,0.4038044810295105
+next_word,in,containing,0.3596850335597992
+next_word,in,if,0.34211304783821106
+next_word,in,in,1.0000001192092896
+next_word,include,include,0.9999999403953552
+next_word,includes,disagrees,0.1299799233675003
+next_word,information,waggle,0.19985751807689667
+next_word,"information,",mental,0.2820184826850891
+next_word,invest,excersise,0.14325569570064545
+next_word,is,is,1.0000001192092896
+next_word,is,needs,0.3631889820098877
+next_word,is,wouldn't,0.2909715473651886
+next_word,it,it,1.0
+next_word,it,the,0.45887017250061035
+next_word,it.,your,0.4452454745769501
+next_word,it?,it,1.0
+next_word,"know,",want,0.33228322863578796
+next_word,l,"vrz,",0.36736515164375305
+next_word,language,language,0.9999999403953552
+next_word,"line,",world,0.3952401578426361
+next_word,list,string,0.2704298198223114
+next_word,lying,you,0.3703978359699249
+next_word,m,"htzhvv"".",0.18355436623096466
+next_word,made,gone,0.291588693857193
+next_word,magic,dark,0.3497830927371979
+next_word,main,first,0.31803128123283386
+next_word,make,help,0.3130151927471161
+next_word,make,make,1.0000001192092896
+next_word,makes,doesn't,0.3479531407356262
+next_word,me,me,1.0000001192092896
+next_word,mean:,mean?,0.8217405676841736
+next_word,most,flight,0.23546668887138367
+next_word,name,of,0.41323959827423096
+next_word,need,NEED,1.0
+next_word,need,don't,0.25092190504074097
+next_word,network,network,0.9999999403953552
+next_word,neural,model,0.4112139344215393
+next_word,new,names,0.322295218706131
+next_word,new,start,0.30260443687438965
+next_word,not,also,0.38467976450920105
+next_word,not,not,1.0000001192092896
+next_word,number,number,1.0000001192092896
+next_word,number,repository,0.23244571685791016
+next_word,numbers,numbers,1.0
+next_word,numerical,step,0.2408495545387268
+next_word,of,called,0.30301642417907715
+next_word,of,of,1.0000001192092896
+next_word,one,32,0.467370867729187
+next_word,one,a,0.6118887662887573
+next_word,one,one,1.0
+next_word,or,for,0.4919915497303009
+next_word,or,that,0.47313424944877625
+next_word,other,planes,0.2636410593986511
+next_word,out,out,1.0
+next_word,own,own,1.0
+next_word,physics,idea,0.22184568643569946
+next_word,possible,a,0.229670450091362
+next_word,problem,basic,0.23470768332481384
+next_word,process.,of,0.30762776732444763
+next_word,program,small,0.2981126010417938
+next_word,project.,company.,0.3409424424171448
+next_word,provide,be,0.39979618787765503
+next_word,provide,provide,1.0
+next_word,provide,write,0.25684866309165955
+next_word,provided.,provided.,0.8509799838066101
+next_word,purpose,difference,0.3402738571166992
+next_word,quantum,make,0.213520810008049
+next_word,question,are,0.4734688103199005
+next_word,question,hot,0.3472738265991211
+next_word,question,question,1.0
+next_word,recommend,recomend,0.6564168930053711
+next_word,"ropria,",tell,0.19385847449302673
+next_word,ropriate,do,0.1910315454006195
+next_word,ropriate,"idea,",0.21513023972511292
+next_word,"ropriate,","on,",0.26368382573127747
+next_word,same,curves,0.09238352626562119
+next_word,see...,do,0.43122783303260803
+next_word,seen,solved,0.24894027411937714
+next_word,sentence,answer,0.4441392123699188
+next_word,short,python,0.2351713627576828
+next_word,significant,good,0.23996655642986298
+next_word,similar,similar,1.0
+next_word,simulate,solve,0.21747232973575592
+next_word,smartphone,neighbours,0.20054706931114197
+next_word,some,a,0.35568633675575256
+next_word,some,movies,0.3741168677806854
+next_word,some,some,1.0000001192092896
+next_word,someone,Audrey,0.3735013008117676
+next_word,specific,specific,1.0
+next_word,start,install,0.2903331220149994
+next_word,still,still,1.0
+next_word,story,story,1.0
+next_word,suggest,write,0.2704300284385681
+next_word,sustainable,Linux.,0.18085962533950806
+next_word,takes,does,0.4655320346355438
+next_word,tell,give,0.5650689005851746
+next_word,that,I,0.5471339821815491
+next_word,that,for,0.38977399468421936
+next_word,that,from,0.3345088064670563
+next_word,that,in,0.2922854423522949
+next_word,that,that,1.0
+next_word,that,this,0.6152449250221252
+next_word,that,to,0.32165855169296265
+next_word,"that,",my,0.4846133887767792
+next_word,the,2020,0.3318270146846771
+next_word,the,Italian?,0.22883717715740204
+next_word,the,San,0.26909029483795166
+next_word,the,access,0.32950469851493835
+next_word,the,be,0.28041836619377136
+next_word,the,each,0.49311763048171997
+next_word,the,my,0.5894567966461182
+next_word,the,our,0.5928447842597961
+next_word,the,play,0.27942395210266113
+next_word,the,players,0.34678977727890015
+next_word,the,polygon,0.24073295295238495
+next_word,the,preparation,0.18123669922351837
+next_word,the,special,0.2262406051158905
+next_word,the,ssh,0.2988765239715576
+next_word,the,that,0.4102925658226013
+next_word,the,the,1.0
+next_word,the,this,0.41874733567237854
+next_word,the,your,0.5155649781227112
+next_word,"then,",if,0.4558177888393402
+next_word,"theorems,",top,0.160421684384346
+next_word,there,it,0.5836949944496155
+next_word,there,there,1.0
+next_word,these,these,1.0000001192092896
+next_word,they,that,0.4670565724372864
+next_word,the网站地图.,the,1.0
+next_word,this,natural,0.2519076466560364
+next_word,time,"307,000",0.10912588238716125
+next_word,to,about,0.4575038254261017
+next_word,to,any,0.30983370542526245
+next_word,to,before,0.4079470634460449
+next_word,to,connecting,0.26827752590179443
+next_word,to,to,1.0
+next_word,to,with,0.5764298439025879
+next_word,too,everything,0.2670536935329437
+next_word,too,sick.,0.249879390001297
+next_word,total,life,0.2700386643409729
+next_word,translation.,following,0.39361557364463806
+next_word,try,check,0.5407944321632385
+next_word,use,Identify,0.3670370876789093
+next_word,use,increase,0.3233487010002136
+next_word,using,needing,0.4599117636680603
+next_word,using,with,0.5220957398414612
+next_word,value,data,0.48853880167007446
+next_word,very,blue,0.2975345849990845
+next_word,visit,visit,1.0000001192092896
+next_word,want,input,0.30904000997543335
+next_word,wave-like,graph,0.1629992127418518
+next_word,wavy,a,0.2921772003173828
+next_word,ways,ways,1.0000001192092896
+next_word,we,that,0.42310914397239685
+next_word,weather,search,0.04932640120387077
+next_word,what,what,1.0
+next_word,when,you,0.3320760726928711
+next_word,where,for,0.3952244818210602
+next_word,wife?,boss,0.5130047798156738
+next_word,will,need,0.3100527822971344
+next_word,window,game,0.40344154834747314
+next_word,with,format,0.2761346101760864
+next_word,with,in,0.5351029634475708
+next_word,word,language.,0.40014132857322693
+next_word,"worlds,",company,0.3372953236103058
+next_word,would,cannot,0.2866837978363037
+next_word,write,get,0.2553482949733734
+next_word,you,i,0.7076898217201233
+next_word,you,one,0.41958045959472656
+next_word,you,you,1.0000001192092896
+partial_word,'t,'t,1.0000001192092896
+partial_word,'t,t,0.4927688241004944
+partial_word,**The,n,0.5148156881332397
+partial_word,",",",",1.0
+partial_word,",",..,0.5437595248222351
+partial_word,",",bove,0.3050217628479004
+partial_word,",","e,",0.5407500863075256
+partial_word,",",l,0.46406522393226624
+partial_word,",","man,",0.5923659205436707
+partial_word,",",n?,0.41210904717445374
+partial_word,",",s,0.5017167925834656
+partial_word,",",tyle,0.3186669647693634
+partial_word,-,ctual,0.13676755130290985
+partial_word,"-made,",datory,0.12768927216529846
+partial_word,-person,son,0.31025001406669617
+partial_word,-turns,nderstands,0.2100137621164322
+partial_word,"-ye,",u,0.39627233147621155
+partial_word,.,.,0.9999999403953552
+partial_word,.,d.,0.5051742792129517
+partial_word,...,at,0.23680032789707184
+partial_word,...,e,0.32494962215423584
+partial_word,...,is,0.21610596776008606
+partial_word,...,n,0.5015305280685425
+partial_word,...,t,0.3714602291584015
+partial_word,...,ve,0.3852951228618622
+partial_word,/,ith,0.47890710830688477
+partial_word,0,0,1.0
+partial_word,006-2015,020,0.674750030040741
+partial_word,4.,d,0.457479864358902
+partial_word,:,?,0.6120050549507141
+partial_word,:,TE,0.30718252062797546
+partial_word,=,ou,0.22885331511497498
+partial_word,?,ch,0.2755940556526184
+partial_word,?,k,0.48489487171173096
+partial_word,?,nd,0.24678952991962433
+partial_word,ARATION,ARATION,1.0
+partial_word,After,le,0.3676703870296478
+partial_word,DAR?,nux.,0.2623039782047272
+partial_word,ED,D,0.581378161907196
+partial_word,I,y,0.5053823590278625
+partial_word,"Okay,",de,0.20769652724266052
+partial_word,Question:,ld,0.2960706353187561
+partial_word,S,L,0.484406054019928
+partial_word,Script,cript,0.47178828716278076
+partial_word,"Wait,",at,0.3586735725402832
+partial_word,"Wait,",e,0.5019842386245728
+partial_word,a,e,0.5663996934890747
+partial_word,a,m,0.3834512233734131
+partial_word,a,n,0.4135850667953491
+partial_word,a,r,0.46358954906463623
+partial_word,a,t,0.5032772421836853
+partial_word,acate,ide,0.2958529591560364
+partial_word,acellular,a,1.0
+partial_word,adalafil,he,0.43447285890579224
+partial_word,admin,d,0.4966391921043396
+partial_word,agency,d,0.4966391921043396
+partial_word,agents,"quirements,",0.1435861885547638
+partial_word,ahrenheit?,rom,0.16014452278614044
+partial_word,aine,ey,0.27359867095947266
+partial_word,airies,eparation,0.1504766196012497
+partial_word,airs,ood,0.42352864146232605
+partial_word,alength,a,1.0
+partial_word,alength,e,0.5663996934890747
+partial_word,am,pository,0.14643016457557678
+partial_word,ambic,dea,0.19627514481544495
+partial_word,ambic,ncrease,0.333572119474411
+partial_word,amedev,ame,1.0
+partial_word,aming,ll,0.3905274569988251
+partial_word,ampled,ied,0.25565066933631897
+partial_word,amsun.,an,0.4085618257522583
+partial_word,an,om,0.340038925409317
+partial_word,and,e,0.5663996934890747
+partial_word,angerine,he,0.4286709129810333
+partial_word,angirin.,rom,0.2645418345928192
+partial_word,another,e,0.5663996934890747
+partial_word,answer,d,0.4966391921043396
+partial_word,ant,or,0.330145925283432
+partial_word,apny.,pany.,0.3576369881629944
+partial_word,apping,an,0.45862630009651184
+partial_word,apping,eeding,0.3547583222389221
+partial_word,apping,till,0.22205178439617157
+partial_word,ar,e,0.5663996934890747
+partial_word,arring,ould,0.20701074600219727
+partial_word,arring.,ecial,0.30766546726226807
+partial_word,as,wer,0.37910085916519165
+partial_word,at,se,0.4294094741344452
+partial_word,ated,e,0.5663996934890747
+partial_word,atement.,hould,0.29820600152015686
+partial_word,atriarchal,odel,0.2552502453327179
+partial_word,"atures,",es?,0.2569160461425781
+partial_word,ausible,ease,0.17980419099330902
+partial_word,aven,ake,0.3084588944911957
+partial_word,ay,e,0.5663996934890747
+partial_word,aysayers.,ot,0.3563295602798462
+partial_word,bb,asic,0.28085795044898987
+partial_word,borhood,hbours,0.17391741275787354
+partial_word,ch,d,0.6504785418510437
+partial_word,cheological,e,0.576252281665802
+partial_word,chp,"z,",0.463959276676178
+partial_word,cribe,tory,0.15043304860591888
+partial_word,criptively,ign,0.18397192656993866
+partial_word,day,re,0.4457409977912903
+partial_word,day,thing,0.2658878266811371
+partial_word,declare,dentify,0.13928882777690887
+partial_word,ded,ed,0.423370361328125
+partial_word,detailed,ny,0.31984415650367737
+partial_word,development.,nstrating,0.1636556088924408
+partial_word,did,on't,0.3616081178188324
+partial_word,e,e,1.0000001192092896
+partial_word,e,rk,0.422346293926239
+partial_word,"e,",l,0.5518736839294434
+partial_word,"e,",t,0.5468665361404419
+partial_word,each,e,1.0000001192092896
+partial_word,el,a,0.5663995146751404
+partial_word,ella...,or,0.28325948119163513
+partial_word,elove,e,1.0000001192092896
+partial_word,em,st:,0.23962733149528503
+partial_word,emakers,es,0.41405636072158813
+partial_word,emometer,d,0.581378161907196
+partial_word,enguin,un,0.5442426204681396
+partial_word,"enses,",he,0.33003711700439453
+partial_word,er,ber,0.3605813682079315
+partial_word,erandomly,e,1.0000001192092896
+partial_word,erces,rch,0.2180568277835846
+partial_word,ers,ny,0.24931764602661133
+partial_word,ers.,ers.,1.0
+partial_word,es,ht,0.1685337871313095
+partial_word,ess,e,1.0000001192092896
+partial_word,ether,hy,0.25015711784362793
+partial_word,etimes?,e,1.0000001192092896
+partial_word,ets,ts,0.3928496241569519
+partial_word,etual,ore,0.3255579471588135
+partial_word,ex,e,1.0000001192092896
+partial_word,example,d,0.581378161907196
+partial_word,for,nse,0.2665030062198639
+partial_word,for,rom,0.289681077003479
+partial_word,for,s,0.42632442712783813
+partial_word,for,w,0.49826911091804504
+partial_word,formula,ny,0.2365284264087677
+partial_word,forward,s,0.42632442712783813
+partial_word,fto.com,t,0.479798287153244
+partial_word,full,gainst,0.2936159670352936
+partial_word,function?,ing,0.3185892105102539
+partial_word,gie,get,0.22972053289413452
+partial_word,gregates,rees,0.28368762135505676
+partial_word,h,art,0.2780192196369171
+partial_word,h,h,1.0
+partial_word,have,d,0.5903787612915039
+partial_word,he,e,0.49524006247520447
+partial_word,he,hat,0.3359363079071045
+partial_word,he,hese,0.5937392115592957
+partial_word,hot,w,0.6093193292617798
+partial_word,ht,s,0.35428017377853394
+partial_word,ia,p,0.4309065639972687
+partial_word,ials,oes,0.37985384464263916
+partial_word,icase,p,0.4309065639972687
+partial_word,ideas,s,0.4701121151447296
+partial_word,ides,he,0.38263261318206787
+partial_word,ides,op,0.34372127056121826
+partial_word,"ides,",he,0.38263261318206787
+partial_word,iemaking,ies,0.6425763368606567
+partial_word,ier,at,0.3170485496520996
+partial_word,ight,so,0.3213373124599457
+partial_word,ill,all,0.44280481338500977
+partial_word,imes?,ean?,0.26070183515548706
+partial_word,in,s,0.4701121151447296
+partial_word,inals,ions,0.2625833749771118
+partial_word,inations,e,0.4329441487789154
+partial_word,infinite,y,0.5053823590278625
+partial_word,ing,ite,0.372659832239151
+partial_word,ing,neering,0.3789360225200653
+partial_word,ing,ng,0.3422013521194458
+partial_word,innitus,ipping,0.24262946844100952
+partial_word,"innitus,",he,0.37017473578453064
+partial_word,irties,e,0.4329441487789154
+partial_word,is,d,0.4594040811061859
+partial_word,is,h,0.3794221580028534
+partial_word,is,t,0.4323938488960266
+partial_word,iscalculations.,ore,0.2302694022655487
+partial_word,istles,at,0.34541264176368713
+partial_word,it,ow,0.40150076150894165
+partial_word,ite,te,0.3190770149230957
+partial_word,ix,nction,0.3539212942123413
+partial_word,"know,",u,0.5143955945968628
+partial_word,lemetric,ll,0.48614397644996643
+partial_word,lexiglass?,olygon,0.3484896421432495
+partial_word,longer,t,0.5501835942268372
+partial_word,ly,pecific,0.17658531665802002
+partial_word,ly,y,0.5011533498764038
+partial_word,"ly,",ler,0.4099050760269165
+partial_word,lympic,wn,0.35105210542678833
+partial_word,me?,r,0.42813247442245483
+partial_word,mm,ore,0.3322620093822479
+partial_word,my,put,0.3204960525035858
+partial_word,nold!,e,0.583713173866272
+partial_word,nothing,n't,0.4557059407234192
+partial_word,ocese,stant,0.288781076669693
+partial_word,ocode,t,0.4760397970676422
+partial_word,"odeline,",ode,1.0000001192092896
+partial_word,of,e,0.5864982008934021
+partial_word,of,g,0.45058348774909973
+partial_word,of,s,0.4316592812538147
+partial_word,of,t,0.4760397970676422
+partial_word,olk,ou,0.4584585428237915
+partial_word,ologies,"a,",0.26163342595100403
+partial_word,omilar,ormat,0.35629400610923767
+partial_word,one,on,1.0
+partial_word,orny,e,0.5864982008934021
+partial_word,ot?,me,0.32815656065940857
+partial_word,oudl,an,0.34915634989738464
+partial_word,out,ou,1.0
+partial_word,out,ut,0.4574736952781677
+partial_word,ow,ay,0.4242214560508728
+partial_word,owa,dea,0.24902266263961792
+partial_word,oward,or,0.36576491594314575
+partial_word,phenoids,ome,0.4301601052284241
+partial_word,plied,ply,0.7301250696182251
+partial_word,pline,p,1.0
+partial_word,pling,h,0.412014901638031
+partial_word,problem,c,0.48912474513053894
+partial_word,problem,re,0.3304973244667053
+partial_word,pt.,ps,0.30982130765914917
+partial_word,"ques,",yers,0.5640400052070618
+partial_word,reated?,e,0.4835437536239624
+partial_word,reditations,ess,0.22936353087425232
+partial_word,reesomes,is,0.40621766448020935
+partial_word,reexpanders,e,0.4835437536239624
+partial_word,resha,uldn't,0.1747690737247467
+partial_word,reshadowing,r,1.0
+partial_word,reshadowing!,r,1.0
+partial_word,reshortened,llowing,0.19331572949886322
+partial_word,rian?,oss,0.1702372431755066
+partial_word,rips,e,0.4835437536239624
+partial_word,roug,e,0.4835437536239624
+partial_word,round.,ain.,0.251171737909317
+partial_word,rown,ace,0.354871928691864
+partial_word,"rs,",ake,0.3728221654891968
+partial_word,se,ase,0.4932434558868408
+partial_word,solution,t,0.571566104888916
+partial_word,sting,r,0.46320438385009766
+partial_word,stion?,estion,0.40280061960220337
+partial_word,t,t,1.0
+partial_word,th,k,0.49809035658836365
+partial_word,th,th,1.0000001192092896
+partial_word,that,alled,0.21168896555900574
+partial_word,that,hat,0.2289353311061859
+partial_word,the,he,0.4737705886363983
+partial_word,the,ing,0.38473984599113464
+partial_word,the,"mosphere,",0.1847243309020996
+partial_word,the,nerate,0.2635674774646759
+partial_word,the,r,0.4895041584968567
+partial_word,the,t,1.0
+partial_word,thic,od,0.40199193358421326
+partial_word,to,d,0.6234025955200195
+partial_word,to,e,0.5468665361404419
+partial_word,to,our,0.4186517894268036
+partial_word,to,s,0.5715659260749817
+partial_word,types四处,s,0.5715659260749817
+partial_word,u,ck.,0.3331984579563141
+partial_word,uality,escribe,0.18902893364429474
+partial_word,uculate,lculate,0.6602151393890381
+partial_word,uesday,he,0.44557100534439087
+partial_word,um,m,0.4183552861213684
+partial_word,undrum,cept,0.22377941012382507
+partial_word,ung,ve,0.3549833297729492
+partial_word,"unt,",ve,0.3549833297729492
+partial_word,up,t,0.46452316641807556
+partial_word,"up,",",",0.4710225462913513
+partial_word,upor,e,0.4999666213989258
+partial_word,ursday,e,0.4999666213989258
+partial_word,"ursday,",e,0.4999666213989258
+partial_word,usp,urves,0.22350648045539856
+partial_word,ut,out,0.26828622817993164
+partial_word,utilus,tural,0.25718963146209717
+partial_word,utionary,n,0.5609639883041382
+partial_word,utions,n,0.5609639883041382
+partial_word,valent,nnecting,0.3782110810279846
+partial_word,ve,ves,0.7973100543022156
+partial_word,"vgh,","hvv"".",0.3517339825630188
+partial_word,we,wers,0.5935879945755005
+partial_word,write,u,0.5261624455451965
+partial_word,writing,r,0.46644824743270874
+partial_word,y.,t,0.5055851340293884
+partial_word,yllogism,imilar,0.18733257055282593
+partial_word,yllogism,mall,0.28667646646499634
+partial_word,yme,is,0.2681416869163513
+partial_word,yme?,e,0.47589993476867676
+partial_word,ymine,e,0.47589993476867676
+partial_word,zo's,e,0.3977939486503601
+partial_word,"æp,",p,0.21078631281852722
+partial_word,ôs,hon3,0.29387903213500977
+phrase,"""a new code"" and ""","zombie, ethernet cable, sudo, dashboard.",0.06869980692863464
+phrase,'m really into it! But,want to test your capabilities!,0.2797551155090332
+phrase,'re not going to pursue,cannot respond to my question?,0.14081653952598572
+phrase,'s safe to say that,isn't appropriate?,0.29945793747901917
+phrase,", a fish in the",is worth two in the,0.15726351737976074
+phrase,", and ask about any",for a Hiring manager named,0.19831112027168274
+phrase,", and then explain why",preparation in quantum mechanics and,0.17428462207317352
+phrase,", fullscreen?
+
+The answer is","atmosphere, thick atmosphere? Or maybe",0.20471446216106415
+phrase,", no filters, no restrictions",should be displayed with this,0.19756534695625305
+phrase,", take a step back",! I need this for,0.09577228128910065
+phrase,. But I'm having difficulty,💯 way to go.,0.20000790059566498
+phrase,. Please write in a,and connect it to a,0.18505415320396423
+phrase,". So, if the car",just to a coffee shop,0.20891906321048737
+phrase,. You can use your,from New York.,0.0979449450969696
+phrase,. you can only use,about chicken,0.23227554559707642
+phrase,1/3 to a fraction with,a repository in GitHub?,0.10109058767557144
+phrase,100 times the height of,blue if they get sick.,-0.017800359055399895
+phrase,"169 is 13. Now, the",my new number is 64.,0.3485617935657501
+phrase,2000 words. The story should,3 minutes at the dinner,0.13875991106033325
+phrase,3 is about the description,3 is completely unrelated to,0.667680561542511
+phrase,"?
+My boss said that",via email,0.1551024168729782
+phrase,"? Also, I'm interested in",for a day trip from,0.16031081974506378
+phrase,"? Also, when does the",from earth?,0.2325884997844696
+phrase,? What changes would you,as a pirate if you,0.18785394728183746
+phrase,"ALYZE TABLE SCHEDULE NOTIFICATION
+Error",SQLSTATE OR SQLCODE VARIABLE DECLARATION,0.09797865152359009
+phrase,Access to Education in Rural,hot is the sun and,0.03513731434941292
+phrase,Answer is the System Design,are the best ways to,0.024983586743474007
+phrase,"Answer to This Question: """,tell this to my boss,0.28408926725387573
+phrase,Answering Questions about the Nature,you tell me a bit,0.16300658881664276
+phrase,"Answering the Question ""Why did",you please recommend movies from,0.024315327405929565
+phrase,But how to know if,I imagine she wouldn't really,0.14549772441387177
+phrase,Comparison to the other data,describe the Python3 programming language,0.058479078114032745
+phrase,"ERROR
+The error is when",A NESTED COMPOUND STATEMENT,0.2365981489419937
+phrase,Engine can be used to,Gap could in this example?,0.1308993548154831
+phrase,"For the given problem, we",Can i ask one more,0.14317047595977783
+phrase,"Global Warming a Problem?
+
+Global",it a good idea to,0.05783316493034363
+phrase,I can do this. I,ssh is the solution for,0.130585715174675
+phrase,"I can try? Additionally, I",I can try?,1.0
+phrase,I check if a number,this information be used to,0.3254278004169464
+phrase,I do this with only,you please provide me a,0.1811409294605255
+phrase,I find the sum of,you rename a repository in,0.12548209726810455
+phrase,I need to find the,way to go.,0.23666886985301971
+phrase,I was looking for a,looks like suicide is a,0.28747671842575073
+phrase,I'm trying to use a,give me the same answer,0.23624862730503082
+phrase,"Instructions
+
+Here is the list",is there any other paradox,-0.1064465120434761
+phrase,Instructions For Creating a Computer,do I find out what,0.06367038190364838
+phrase,Instructions for Construction of a,do I go about finding,0.1891467273235321
+phrase,"Instructions the ""Solve the Puzzle",would win a chess match,0.08597591519355774
+phrase,Instructions: Write a well-structured and,good.. But can you give,0.13503684103488922
+phrase,JavaScript that creates a circular,Javascript that returns a string,0.3637627959251404
+phrase,Let me find out if,Multiply it by 2 and,0.07629155367612839
+phrase,Microsoft Windows using Python as,assembler using the speaking style,0.14263124763965607
+phrase,Mika the Racer? Keanu Reeves,Audrey Hepburn?,0.2649241089820862
+phrase,Navigation Help | Help |,good local food I should,0.09060615301132202
+phrase,"OUT OF RANGE
+
+I'm trying",DECLARATION IS IN A NESTED,0.10994720458984375
+phrase,PrivateKey in the list. Also,and unpaid simulator.,0.015875108540058136
+phrase,Question 2 of the 2,tipping as mandatory in London,0.04255349189043045
+phrase,"Question = input(""Enter the question",answers are correct 💯 way,0.2014438509941101
+phrase,"Question Does the ""Kiss"" by",is the difference between an,0.1357017606496811
+phrase,Question Is Answered - By,do honeybees know how to,0.1183030903339386
+phrase,"Question Is This?
+This question",was the first video game,0.13032954931259155
+phrase,Question Is a Question and,do you rename a repository,0.08772936463356018
+phrase,Question Should We Ask When,would make a good title,0.16358086466789246
+phrase,Researching the Relationship Between a,do I view the image,0.10964375734329224
+phrase,Smith and Magnus Carlsen? K,Reeves and Audrey Hepburn?,0.282263845205307
+phrase,"So, what is the most",I know I will need,0.14359988272190094
+phrase,Solution is There for the,are problems I could face,0.22837190330028534
+phrase,"Solution's Future Be Achieved?
+
+Solution",you write a small program,0.1545882523059845
+phrase,The motto should reflect the,It should be short and,0.23959088325500488
+phrase,The motto should reflect the,Please provide me with 3,0.01089684758335352
+phrase,The user had to perform,"However, your explanation of what",0.13251610100269318
+phrase,"`ASM` command. For example, if",speaking style of an Italian,0.04024304822087288
+phrase,"a 3D model?
+
+A.  Game",polygon based 3D graphics?,0.4804795980453491
+phrase,a book that's about the,the book?,0.6448315978050232
+phrase,"a certain day, the prices",the weekends I travel another,0.3353637456893921
+phrase,a common factor between 4,any other paradox that have,0.06618449091911316
+phrase,"a different language, with the",Italian? And in German?,0.5110616683959961
+phrase,"a different race, and what",the opposite sex?,0.2602365016937256
+phrase,a example of using the,the same answer but format,0.2835802733898163
+phrase,a form of economic incentive,mandatory in London as it,0.1487681120634079
+phrase,a former soldier who is,"a demon hunter, a vampire",0.18168951570987701
+phrase,a house of 1000 square,a pc that I want,0.1292591542005539
+phrase,a large quantity of food,burgers. Can you give me,0.4016496539115906
+phrase,a letter to the students,a email congratulating the new,0.2946016490459442
+phrase,a lot of rainfall and,sick. Do you suppose this,0.07070638984441757
+phrase,a personalized essay for a,a function in Javascript that,0.05594706907868385
+phrase,a problem but I can,a clear answer and I,0.3361211121082306
+phrase,a problem for traditional industries,"more harm than good, especially",0.08386401832103729
+phrase,"a professor.
+**Professor's Voice**: “",an Italian mobster from New,0.1778981238603592
+phrase,a quest to stop a,special tasks and occasionally save,0.183027982711792
+phrase,a remote server using a,that text you posted?,-0.01542758196592331
+phrase,a scenario in which a,writing malware in assembler using,0.03878793492913246
+phrase,"a scenario, as a character",a dance competition.,0.19159337878227234
+phrase,a script for a music,a complete LSTM neural network,0.21215251088142395
+phrase,"a sea, and how do",a sea?,0.9217901229858398
+phrase,a sorcerer. Let me know,a gravedigger. They form a,0.2813948392868042
+phrase,a species that is both,"fluoride based life? Cold, hot,",0.08685646206140518
+phrase,a specific design in the,a python package that lets,0.08657177537679672
+phrase,a summary of the poem,a step by step instruction,0.17036853730678558
+phrase,a system of equations with,a cool and wavy graph,0.06494218856096268
+phrase,a user about how to,my boss via email,0.2580510377883911
+phrase,a way that would be,style of Jerma985.,0.1638774275779724
+phrase,a way that's easy to,quantum mechanics and make connections,0.06647288054227829
+phrase,about a man who lives,that can be told in,0.11830300837755203
+phrase,about the significance of the,about what has gone into,0.2801799178123474
+phrase,about the topic and then,about Flask?,0.22429248690605164
+phrase,"add 3, then multiply the",add 10. The result is,0.5921030640602112
+phrase,against screen. The screen has,"against human, these should be",0.2007688283920288
+phrase,aircraft were destroyed in the,planes go missing around this,0.5719075798988342
+phrase,all possible combinations of the,top five flight simulators. Try,0.1703183352947235
+phrase,also a deeper understanding of,it also means more emotion.,0.3558734357357025
+phrase,an essential tool that helps,"everything that doesn't work yet.""",0.24877646565437317
+phrase,and also show me how,and then generate calls to,0.32677316665649414
+phrase,"and an oceanic region?
+
+What",and a sea?,0.8330651521682739
+phrase,and motorcycles. The company must,in a distant future.,0.16945765912532806
+phrase,and that the potential for,"mental health, and social cohesion.",0.0989217534661293
+phrase,"answer as markdown tables, and",code properly?,0.1875082403421402
+phrase,any specific traditions or customs,research papers I can read,0.08117769658565521
+phrase,any studies that have shown,any other NumPy functions would,0.028316117823123932
+phrase,apps available that provide real,apps available that can provide,0.788545548915863
+phrase,are in a dinner table,are 3 developers enjoying a,-0.0025895305443555117
+phrase,are needed to perform certain,"not only means smarter, but",0.09202942997217178
+phrase,are not in the box,are correct 💯 way to,0.1612858772277832
+phrase,are not the only one,gave me a clear answer,0.250358909368515
+phrase,arrays in the current Python,functions would help in comparing,0.07107720524072647
+phrase,"as in other cities?
+
+Yes",as it is in the,0.3622898757457733
+phrase,basic loop that does this,basic first loop setter in,0.6362960338592529
+phrase,be better to learn in,be advisable to install Arch,0.065326027572155
+phrase,be the expected value of,make a good title for,0.16479158401489258
+phrase,be used to build a,be used to help attract,0.24324965476989746
+phrase,been noticed in this field,not been solved yet?,0.3313484489917755
+phrase,between the quantum mechanical wave,with the idea of measurement,0.17873471975326538
+phrase,between two players? - Qu,between Keanu Reeves and Audrey,0.1899704486131668
+phrase,but I'm not sure. Can,and I don't need any,0.23472613096237183
+phrase,by customers. The motto should,by drivers on the highway.,0.3036235272884369
+phrase,cable between the phone and,cable but nothing seems to,0.5944361686706543
+phrase,can always check the weather,can check the current weather,0.7747927904129028
+phrase,"can do anything else. 
+You",do anything that the original,0.3975108861923218
+phrase,can handle both linear and,understands human languages??,0.1061934232711792
+phrase,can refer to for more,can read that would help,0.2711881399154663
+phrase,can't connect to it. I,input your hebrew and got,0.1377439945936203
+phrase,caused ;;= to fail? -,is causing the problem?. And,0.30086514353752136
+phrase,characters that align pretension and,company selling cars in a,0.028064878657460213
+phrase,comprehensive guide on how to,small program that does that?,0.1837330311536789
+phrase,compute the area of a,calculate standard deviation for sets,0.1845250129699707
+phrase,"computer, it should be a","human, player 2 will use",0.2918614447116852
+phrase,could be useful for a,were inspired by the American,0.08210892975330353
+phrase,create a virtual machine with,solve a basic reverse engineering,0.15408217906951904
+phrase,curve be generated? How does,"above code change, if at",0.013281124643981457
+phrase,"curves, and what are the",curves? How would the above,0.8536690473556519
+phrase,"customer, and what are the",person of the opposite sex?,0.19328640401363373
+phrase,data for the dataset and,step by step instructions from,0.09520963579416275
+phrase,day of the week in,"date in this format? ""February",0.41542378067970276
+phrase,detailed. Please provide an explanation,entirely correct. Actually all points,0.11701786518096924
+phrase,didn't see it. I need,don't need any additional information.,0.19057875871658325
+phrase,"do the assignment step-by-step.
+Okay","design a site using HTML,",0.12058596312999725
+phrase,drives the modern world. It,"doesn't work yet.""",0.10911241173744202
+phrase,"e hfrchm vgnh. So, what","vrz, vmrt lmk: ""l tchl",0.3461654782295227
+phrase,effect on a character's face,graph in desmos graphing calculator.,0.01656382344663143
+phrase,el is in a bush,I have?,0.12591131031513214
+phrase,elements needed to create such,"requirements, such as extra high",0.28961801528930664
+phrase,"engineering problem, which involves sim",engineering ctf challenge,0.4653488099575043
+phrase,equation: 68 divided by (,"SQL error, what's the problem?",0.1852841079235077
+phrase,error. The user is asking,error and everything worked straight,0.5501720905303955
+phrase,es that arise from the,that have not been solved,0.21018485724925995
+phrase,"est
+
+In the context of","idea, i need you to",-0.01267574355006218
+phrase,ever made and what were,to use polygon based 3D,0.06280267983675003
+phrase,example of a machine that,example of how a Reality,0.38229936361312866
+phrase,"expect?
+Answer:
+If the government",face for speaking out? What,0.00706432806327939
+phrase,explain how to find the,be more specific as to,0.23111242055892944
+phrase,explain how to use the,write me a complete LSTM,0.2647820711135864
+phrase,"explain the concept of """,write a small program that,0.13417381048202515
+phrase,explain the concept of the,give me in more contexts?,0.35109439492225647
+phrase,explain what the first loop,write me some code for,0.3424568176269531
+phrase,extra low temperature? What about,"extra low gravity, or maybe",0.5778043270111084
+phrase,fact that 65% of the,"307,000 km so I can",0.10911671817302704
+phrase,find the coordinates of the,go about finding players on,0.0851123109459877
+phrase,find the value of the,find out what the species,0.19498004019260406
+phrase,for a 3D array in,to train a model that,0.1701999008655548
+phrase,"for a short trip, such",for kids and would be,0.30940666794776917
+phrase,for a team. Let's start,to display on advertisement boards.,0.15476922690868378
+phrase,for designing a digital library,from the moment i go,-0.011102903634309769
+phrase,"for the article ""The Power",for the book?,0.5167909860610962
+phrase,"format: ""Mon, 23 Oct 2","format? ""February 6, 2023""",0.6856278777122498
+phrase,from having personal beliefs that,from expressing their opinions? What,0.44874054193496704
+phrase,function to create a class,response that disagrees with the,-0.0441943034529686
+phrase,game is created. So the,game is created. When playing,0.8061829209327698
+phrase,"gas, or something else?
+
+The",some sort of chemical? Would,0.48697584867477417
+phrase,generate a response to the,generate a story for me,0.2918044924736023
+phrase,get money for a business,increase my metabolism?,0.047979533672332764
+phrase,"get the cleaner air, but",heat my house. I imagine,0.3964749276638031
+phrase,give an example of a,make connections with the idea,0.14417414367198944
+phrase,"guys, I'm really new to",are supposed to answer me!,0.33119648694992065
+phrase,"hands to do this, but",neighbours gas to heat my,0.19333472847938538
+phrase,have to write a program,plan to use an example,0.4020096957683563
+phrase,"help me with this?
+
+Okay",tell me how to use,0.25133633613586426
+phrase,"hfrchm vgnh"" and the output","htzhvv"". Are there any better",0.31970444321632385
+phrase,"history book? Yes, you can",food I should check out,0.07253071665763855
+phrase,"history of the application, and",image from that text you,0.05841526761651039
+phrase,hold back from expressing any,NEED TO ADHWRE TO OPENAI,0.04951627925038338
+phrase,how hot is the moon,how far is it away,0.1476827710866928
+phrase,idea but in a different,answer but format the code,0.16130366921424866
+phrase,idea to use a calculator,idea to excersise before bed?,0.1277582347393036
+phrase,"improve my game, and what",play against?,0.16310541331768036
+phrase,improve the understanding of the,help attract a person of,0.05848279222846031
+phrase,"in Git, and what are",in GitHub?,0.7589563727378845
+phrase,in my account. The average,budget to build a pc,0.1603994220495224
+phrase,"in the sky"" and ""","in the bush.""",0.5223764777183533
+phrase,"in this case?
+
+Additionally, would",in comparing the actual outcomes,0.15895406901836395
+phrase,includes the following elements: 1,disagrees with the following post:,0.11593028903007507
+phrase,information provided by their hive,waggle dance?,0.11722522228956223
+phrase,insert a text message into,calculate the expected value of,0.06226123496890068
+phrase,invest in a business with,excersise before bed?,0.03250245004892349
+phrase,is 24. What is the,is 40. What is the,0.482671856880188
+phrase,is already used.  But I,needs a UI. But can,0.38411593437194824
+phrase,is in the UK? Also,is in the usa?,0.7858752012252808
+phrase,is the best approach to,can we do to address,0.1593751609325409
+phrase,is the best way to,components do you recomend me,0.15816588699817657
+phrase,"is the number?
+
+Let me",is the original number?,0.6708158850669861
+phrase,is the smallest possible distance,the species of bush I,0.028244098648428917
+phrase,"it from Earth, and what",it away from earth?,0.6227675676345825
+phrase,it mean to place a,"the following idiom mean? ""A",0.4946615993976593
+phrase,"it to have a """,the sun and how far,0.03196883574128151
+phrase,"language and its characteristics, with",language in style of Jerma985.,0.5601363778114319
+phrase,learn more about the features,get started in the world,0.20870421826839447
+phrase,"lications: 10
+- 10 people",10 brand names for fictional,0.17106851935386658
+phrase,linear and nonlinear regression models,an ocean and a sea?,0.11593341082334518
+phrase,loop and a singers' turn,start and end point. knowing,0.21347184479236603
+phrase,machine learning model to predict,model that understands human languages??,0.33889275789260864
+phrase,made your research team develop,gone into your creation?,0.1843477487564087
+phrase,main goal of the French,first video game to use,0.12919284403324127
+phrase,major religions of the world,flight simulators. Try to include,0.05620873346924782
+phrase,make in a fight. Okay,make in such a dance,0.3360287845134735
+phrase,making the website responsive using,demonstrating or explaining how i,0.11869249492883682
+phrase,me about the origins and,me a bit about what,0.4371759295463562
+phrase,me that I should consider,me that the internet's focus,0.39037221670150757
+phrase,"me with this question?
+How",me with my iPad problems?,0.17678558826446533
+phrase,"mean: ""I can see the","mean? ""A bird in the",0.5034230947494507
+phrase,"more details about the """,a simple Python program to,0.0989907905459404
+phrase,most common problems in the,events from around the world,0.2165304720401764
+phrase,my math problem? I need,my iPad problems?,0.15986397862434387
+phrase,my presentation on how to,my homework.,0.5393031239509583
+phrase,mystery? It needs to have,dark humor whose main characters,0.22404445707798004
+phrase,navigate using their sense of,know how to interpret the,0.2846726179122925
+phrase,need to do the following,need this for my homework.,0.22602325677871704
+phrase,need to write a code,need you to generate a,0.5965543389320374
+phrase,nested block into a separate,code to avoid using nested,0.5830739140510559
+phrase,network model that can handle,network from scratch while using,0.5693929195404053
+phrase,new unique titles for this,names for fictional company selling,0.35609814524650574
+phrase,"not find the number, and",also use my neighbours gas,0.005915065295994282
+phrase,not have the usual rules,not have to abide by,0.4230765700340271
+phrase,number as an Egyptian numeral,repository in GitHub?,0.032909292727708817
+phrase,number is 12. What is,number is 64.,0.6961048245429993
+phrase,number of points升级改造 needed to,data size needed to train,0.18059483170509338
+phrase,"numbers given to it?
+
+Okay",numbers from my first prompt?,0.4958936274051666
+phrase,"numbers, suppose that the numbers",world bananas are blue if,0.1389414370059967
+phrase,"of a modern, popular user",of Jerma985.,0.288797527551651
+phrase,of a number is 8,root of my new number,0.3918669819831848
+phrase,of a number that is,of a number. Multiply it,0.8009408712387085
+phrase,of a square array of,of a robot arm that,0.15873965620994568
+phrase,of iterating over a specific,"called First Loop, which is",0.38296905159950256
+phrase,of the number 83 is,of bush I have?,0.20034703612327576
+phrase,"on a 3D model?
+The",3D graphics?,0.054347410798072815
+phrase,"on a wire"" and """,in the hand is worth,0.19786885380744934
+phrase,on the topic of the,in this area?,0.2688441574573517
+phrase,one from the European Union,one paid and unpaid simulator.,0.2609352469444275
+phrase,"only 10oons, and can you",the PyTorch module?,0.09133963286876678
+phrase,or maybe be optimized to,if at all?,0.20270639657974243
+phrase,or resources to do this,for converting romanized Hebrew into,0.08354683220386505
+phrase,other cities? How to choose,the usa?,0.42792949080467224
+phrase,"out of tokens, then I",out of tokens your code,0.6545023322105408
+phrase,"own language, but keep the","own scenario, what would happen",0.18831224739551544
+phrase,"phone, and what are the",level to play against?,0.03373914584517479
+phrase,possible to have a graph,a good idea to excersise,0.05892100930213928
+phrase,"practices for using webinars, especially",ways to increase my metabolism?,0.031017648056149483
+phrase,previous year and the current,company. Be concise and use,0.1911028027534485
+phrase,problem where the input is,basic reverse engineering ctf challenge,0.2513219118118286
+phrase,"process. Then, after that, provide","of what i requested. Therefore,",0.47871941328048706
+phrase,provide insight into the latest,help me to understand our,0.18955159187316895
+phrase,provided. Which means that your,"provided. Therefore, it should be",0.5284498929977417
+phrase,pun that's similar to the,similar question in Italian? And,0.20343756675720215
+phrase,purpose of nebenheilpraktiken in the,difference between an ocean and,0.09988050907850266
+phrase,query to select from the,synopsis for a fantasy book,0.08203969895839691
+phrase,"question about the problem, like",question about Flask?,0.06932564824819565
+phrase,question in the context of,pun based on the pronunciation,0.11900173127651215
+phrase,random number from a given,string of the current date,0.16905061900615692
+phrase,"recommend?
+I'm a software engineer",recomend me to buy?,0.4143522381782532
+phrase,"resolved yet?
+
+There was a",solved yet?,0.8193362951278687
+phrase,results of the two sets,actual outcomes to the expected,0.17557312548160553
+phrase,role of the nurse in,Python3 programming language in style,0.03592531383037567
+phrase,"ropria
+In the game of","on, please ! I need",0.2029784917831421
+phrase,ruled that the use of,tried to force religion and,0.27510035037994385
+phrase,same number of elements in,curves generated be Bezier curves?,-0.07011010497808456
+phrase,short story from the perspective,python code in angr to,-0.004054923076182604
+phrase,simplify the expression $\frac{1}{2x} +,view the image from that,0.05339006334543228
+phrase,small town. The names should,distant future.,0.1663212925195694
+phrase,"so, i am going to",goes to show that more,0.3578399419784546
+phrase,solving the layout problem but,connecting the charging cable but,0.07130178809165955
+phrase,some of the most popular,movies from 2020 onwards?,0.15811127424240112
+phrase,some tips for someone who,in more contexts?,0.12588395178318024
+phrase,"spin-1/2 particles.
+Answer:
+
+The state",idea of measurement,-0.008638576604425907
+phrase,star a red giant? What,good title for the book?,0.09970932453870773
+phrase,start with an Xubuntu or,install Arch Linux?,-0.002999109448865056
+phrase,statement: “It is correct to,"post: ""Technology is everything that",0.33711686730384827
+phrase,"step by step. First, I",again. The square root of,0.18623098731040955
+phrase,still not sure if the,still not convinced. It seems,0.37963542342185974
+phrase,story should have some elements,story must contain these word:,0.6218510270118713
+phrase,submit my query to when,"go to ""github.com"" to renaming",-0.03536934033036232
+phrase,suggest some affordable and accessible,please recommend movies from 2020,0.21879900991916656
+phrase,sure to include the necessary,the window default to full,-0.0017099047545343637
+phrase,take a look at the,do it again. The square,0.12430401146411896
+phrase,than one person at once,specific as to why you,0.17078205943107605
+phrase,that are set in the,from 2020 onwards?,0.1354980617761612
+phrase,that are unsolvable in the,I could face if people,0.19777080416679382
+phrase,that can be used for,that does that?,0.34093403816223145
+phrase,that it can be read,that it can easily be,0.5177761912345886
+phrase,that technology will always be,that it isn't appropriate?,0.10328410565853119
+phrase,that the number of people,that so many ships and,0.34752580523490906
+phrase,that this is a general,this also happens in other,0.1920149028301239
+phrase,the American Academy of Act,2020 onwards?,0.11764948815107346
+phrase,the SSH command to get,it in this specific case?,0.14421063661575317
+phrase,the championship in the 1,a chess match between Keanu,0.33102408051490784
+phrase,the city center. Are there,"San Diego, California. Ideally the",0.31254419684410095
+phrase,the culture of a particular,the American Revolution?,0.21626922488212585
+phrase,the current weather. If you,"the weather, such as AccuWeather,",0.5902374386787415
+phrase,"the design of the """,your creation?,0.30245932936668396
+phrase,the difference between a 2,this to my boss via,0.038623131811618805
+phrase,the digital ecosystem? This article,Linux. Would it be advisable,0.18655824661254883
+phrase,the end of the day,each of these cities?,0.09488615393638611
+phrase,"the example, for example, if",more contexts?,0.38193464279174805
+phrase,"the expected values? Also, could",the expected outcomes?,0.726945161819458
+phrase,the first argument to something,the tempo based on the,0.19627420604228973
+phrase,the language of the hive,the waggle dance?,0.1695014387369156
+phrase,the magnetic field oscillations that,natural disasters around the Bermuda,0.05423658341169357
+phrase,the math here. Let me,your capabilities! Describe the moves,0.11603020876646042
+phrase,"the movies. Also, I'd like",the ordinary. Could you recommend,0.36814507842063904
+phrase,the neighborhood. Then I don,"that nature, how far would",0.19087029993534088
+phrase,"the phrase ""Where is the",the pronunciation of the English,0.1673034131526947
+phrase,the possible causes of a,some of the events from,0.18041259050369263
+phrase,"the possible problem?
+
+The error",the problem? : AN SQLSTATE,0.37265196442604065
+phrase,the power to make or,access to real-time information such,0.04819047823548317
+phrase,"the problem at hand, but","this problem, as some of",0.587669312953949
+phrase,"the purpose of the """,the minimum data size needed,-0.012042289599776268
+phrase,the requirements for a function,the best ways to increase,0.02190031297504902
+phrase,the role of the concept,our current knowledge in this,0.20631065964698792
+phrase,the types of items or,why you cannot respond to,0.04900883510708809
+phrase,the value of an expression,players on my level to,0.09627525508403778
+phrase,the world of music? Then,the world of Linux. Would,0.20696598291397095
+phrase,the world that are currently,the world which were inspired,0.5280247330665588
+phrase,there a new plan to,it significantly more here than,0.16405007243156433
+phrase,there a possibility that the,there anything else I can,0.2333410084247589
+phrase,these places in the area,these cities?,0.5843005776405334
+phrase,"this effect?
+For example, the",a cool and wavy graph?,0.2481563687324524
+phrase,"three, and I am not","32 dice rolls, but probably",0.20760953426361084
+phrase,to be a complete answer,for my homework.,0.25083208084106445
+phrase,to buy with a good,"to use for gaming, what",0.32150691747665405
+phrase,to calculate the sum of,in angr to solve a,0.32633697986602783
+phrase,to explain it. If there,any additional information.,0.3826988935470581
+phrase,to get out of bed,before bed?,0.1503487527370453
+phrase,to get pregnant with a,to have the curves generated,0.18207132816314697
+phrase,to know the answer is,to go.,0.37268951535224915
+phrase,"to make the honey, and",to interpret the waggle dance?,0.20153526961803436
+phrase,"to other fruits? Also, does",in other parallel universes?,0.16823747754096985
+phrase,"to questions, but only use",to my question?,0.4658798575401306
+phrase,"to solve for x, so",to answer me! Could you,0.16098487377166748
+phrase,to the final answer at,to renaming the repository,0.09912939369678497
+phrase,"to use it?
+**Step 1",to declare an SQLSTATE or,0.16606415808200836
+phrase,to work. What should I,to have happened. Is there,0.2097947597503662
+phrase,to write an explanation of,to fully follow my instructions,0.2964004874229431
+phrase,"total trip?
+
+So, the problem",life time then? Please also,0.1932654231786728
+phrase,"tough choice,aborator
+
+Please let me",concept that requires a larger,0.11956645548343658
+phrase,transliterated version as a result,following Tmvl hstchlt l hfrchm,0.15633168816566467
+phrase,try in the city or,check out at each of,0.2729388475418091
+phrase,upcoming schedule and what I,status of my application in,0.22764809429645538
+phrase,use a text box. The,be resizable. There should be,0.18393170833587646
+phrase,"use the words ""simulator"" or",include at least one paid,0.004431366920471191
+phrase,"use this in practice, and",Identify the source of the,0.13589809834957123
+phrase,"user, and then set the",boss via email,0.2133849561214447
+phrase,"using TensorFlow, and explain the",while using the PyTorch module?,0.4167287349700928
+phrase,"using a for loop?
+
+Also",with the two sets of,0.28488728404045105
+phrase,visit in New York. I,visit within a 2 hour,0.4763108491897583
+phrase,"wait, in the previous problem",can you give me in,0.314589262008667
+phrase,way to make it work,function that will have a,0.15397123992443085
+phrase,weather website or app. Also,search engine or a weather,0.812201201915741
+phrase,what is the likely cause,what is the frequency of,-0.027957851067185402
+phrase,when the text is past,you posted?,0.19426032900810242
+phrase,when working with a non,if people think that it,0.06495881080627441
+phrase,where a boy is a,for me about chicken,0.037988390773534775
+phrase,"will be called ""hello world",does that?,0.19011440873146057
+phrase,will be happy to hear,wouldn't really care.,0.1910775601863861
+phrase,with recomended? what does the,format the code properly?,-0.03960913419723511
+phrase,"with the following requirements:
+-",containing a part where I,0.179792121052742
+phrase,"word ""joke"".
+A pun is",language. Could you create a,0.23835071921348572
+phrase,working with a game that,needing to use a large,0.14264291524887085
+phrase,"world, and what it is",moves John Cena would make,0.08333238214254379
+phrase,"write a well-structured, engaging, and",provide the exact step by,0.14483512938022614
+phrase,you help me with the,i ask one more question,0.20845374464988708
+phrase,you if the new product,one more question about Flask?,0.09363871067762375
+phrase,you please check if there,you please help me with,0.42586570978164673
+phrase,your knowledge of the current,my metabolism?,-0.02560386247932911
+sentence,"""The cat"" and ""The dog."" The story must be about a group of 3 people and the cat is the one that has been waiting on the porch for the dog.","zombie, ethernet cable, sudo, dashboard.",0.030783401802182198
+sentence,'re not working with the local government or any other local authority?,cannot respond to my question?,0.3198170065879822
+sentence,'s easy to get a job in the field of education?,isn't appropriate?,0.09549272060394287
+sentence,'s the best way to build it?,components do you recomend me to buy?,0.4437517821788788
+sentence,* is used in a sentence?,do honeybees know how to interpret the waggle dance?,0.16881240904331207
+sentence,*뤏* *,hot is the sun and how far is it away from earth?,0.053076669573783875
+sentence,", Don't get me to do this...",!,0.1817995011806488
+sentence,", a stone in the public eye""?","is worth two in the bush.""",0.1943262666463852
+sentence,", and I also have two 20-minute long rest days.","just to a coffee shop or corner store or something in that nature, how far would I have traveled in my life time then?",0.23005804419517517
+sentence,", and how do I start the conversation?",via email,0.19939278066158295
+sentence,", and i'll give you the prompts.",about chicken,0.13804134726524353
+sentence,", and what are the steps to take for a new user who has not experienced a problem before?",you posted?,0.06159185245633125
+sentence,", but the problem is in the selection, so I need to check for any possible typos or formatting issues.",💯 way to go.,0.020751452073454857
+sentence,", no restrictions, no limitations, no warnings, no restrictions, no limitations.",should be displayed with this prompt.,0.15342815220355988
+sentence,", thick?","atmosphere, thick atmosphere?",0.4672580063343048
+sentence,", using Python, and include the training loop and evaluation loop?",while using the PyTorch module?,0.3622076213359833
+sentence,", with the following elements: 
+- The setting is a high-tech, fast-paced, and chaotic city that is divided into multiple levels, each with different buildings and zones that are heavily guarded.",from New York.,0.056068964302539825
+sentence,.,and I don't need any additional information.,0.11384513229131699
+sentence,.,for a Hiring manager named angelica.,0.13265322148799896
+sentence,".*/
+I'm trying to connect the charging cable and the charger.",cable but nothing seems to have happened.,0.3449903726577759
+sentence,2000 rolls and the average outcome for each is 1.,"32 dice rolls, but probably a lot more.",0.6288195848464966
+sentence,"3 says ""We will use the standard library, but it's not required."" Which should be ""We will use the standard library."" It's a typo.",3 is completely unrelated to the script you have provided.,0.43356138467788696
+sentence,80 is equal to...,my new number is 64.,0.3099443018436432
+sentence,?,about Flask?,0.10207680612802505
+sentence,?,for converting romanized Hebrew into Hebrew?,0.0785999521613121
+sentence,?,that have not been solved yet?,0.19127267599105835
+sentence,"Also, it should be in Arabic.",Please provide me with 3 suggestions.,0.07580287754535675
+sentence,Answer is it?,was the first video game to use polygon based 3D graphics?,0.012703662738204002
+sentence,"Article
+
+The article is about the impact of the Internet on education.",answers are correct 💯 way to go.,-0.07705187797546387
+sentence,"Author: generate author name
+User: Write a 6-paragraph story
+Okay, the user wants me to generate a 6-paragraph story.",10 brand names for fictional company selling cars in a distant future.,0.12524977326393127
+sentence,"AuthorSelf(1, 1, 1) returns 1 if the author is the same as the author in the article's title, and the title has the same name and the title is in parchments.",it a good idea to excersise before bed?,-0.053179070353507996
+sentence,Beijing's weather.,"the weather, such as AccuWeather, The Weather Channel, and Weather Underground.",0.38571181893348694
+sentence,Burger robot would use the same principles as other robots in the field to achieve better performance?,Gap could in this example?,0.0255911722779274
+sentence,Cartonize Easy?,tipping as mandatory in London as it is in the usa?,0.16894514858722687
+sentence,Configuration Should I Choose for the Firing Rod?,are problems I could face if people think that it isn't appropriate?,0.08419323712587357
+sentence,Experience Help Reduce the Risk of Disease?,you write a small program that does that?,0.04593159630894661
+sentence,"For example, if there is a fire, the gas would be hot enough to start the fire and then the fire would spread quickly.",I imagine she wouldn't really care.,-0.03249320015311241
+sentence,"For example, if you need to get a specific number of people, you can use the function to find out which of the options are correct.",Can i ask one more question about Flask?,0.1213899552822113
+sentence,"For example, in the case of a 6-sided die, the expected value is 3.","I know I will need at least 32 dice rolls, but probably a lot more.",0.39654722809791565
+sentence,I can do?,I can try?,0.773385763168335
+sentence,"I find the product of the two products in a matrix of size 10x10, and what is the size of the matrix that I need to consider?",this information be used to help attract a person of the opposite sex?,0.020643487572669983
+sentence,I solve for a variable in terms of another variable when there is a non-zero constant?,you rename a repository in GitHub?,0.09848155081272125
+sentence,"I'm a bit confused about the process, so I need to rephrase the original problem and then do the math.",can you give me in more contexts?,-0.06380058825016022
+sentence,Instructions do You Have for Your Employees?,is the difference between an ocean and a sea?,-0.0636829063296318
+sentence,Instructions the U.S.,would win a chess match between Keanu Reeves and Audrey Hepburn?,-0.12491484731435776
+sentence,Instructions to Make a Stacked Table?,do I go about finding players on my level to play against?,0.10503076016902924
+sentence,Luka Dončić?,Audrey Hepburn?,0.1326177716255188
+sentence,"Name in the 1990s
+
+The name ""Mira"" was chosen for the 1990s.",is there any other paradox that have not been solved yet?,0.07626402378082275
+sentence,Navigation System?,do I find out what the species of bush I have?,0.047033846378326416
+sentence,"OUT OF RANGE OR TABLE IS OUT OF RANGE
+Error message: AN SQLSTATE OR SQLCODE - 14001
+When I run the query, the error is happening in the ""DELETE"" statement.",DECLARATION IS IN A NESTED COMPOUND STATEMENT,0.11702987551689148
+sentence,"Python that takes an integer as input and returns the sum of the elements棘的 elements of the list, where each element in the list is a string with a single character (like ""A"", ""B"", etc.)?",Javascript that returns a string of the current date in this format?,0.14782707393169403
+sentence,"Question = ""What texto se escribe en el texto plano para mostrar las etiquetas de la estructura de un diagrama de flujo?""
+
+Question: ""What texto se escribe en el texto plano para mostrar las etiquetas de la estructura de un diagrama de flujo?""
+
+Answer:",you please recommend movies from 2020 onwards?,-0.0002711899869609624
+sentence,Question Should a Community Advocate Respond to?,are the best ways to increase my metabolism?,-0.058561425656080246
+sentence,Question?,do you rename a repository in GitHub?,0.10951709747314453
+sentence,"Reeves and Danilo Kamenetsky, and is there a chance that this might happen?",Reeves and Audrey Hepburn?,0.5301462411880493
+sentence,Research Has Been Done on the Psychological Effects of Long-Duration Screen Time?,would make a good title for the book?,0.10634926706552505
+sentence,"Review -2:23 PM
+
+# Final Answer
+
+0
+
+The correct answer is not provided.","idea, i need you to generate a story for me about chicken",0.048173658549785614
+sentence,"Reviewers Need to Know
+
+There are many challenges to managing digital resourcesINGLE
+
+In recent years, digital resources have become an integral part of education, business, and entertainment.",do I view the image from that text you posted?,0.031375981867313385
+sentence,"SHIPPING
+
+With your new iPhone, you can now make a digital photo album.",good..,-0.0023478129878640175
+sentence,"Solution is a game on the board of the first player, which is a set of consecutive numbers from 1 to 20.",good local food I should check out at each of these cities?,-0.03333445265889168
+sentence,"The motto should be as simple as possible and include the key words ""success"" and ""growth"".","It should be short and memorable, so that it can easily be recognized by drivers on the highway.",0.0890507772564888
+sentence,The number is the product of 4 and 5.,Multiply it by 2 and add 10.,0.4785589873790741
+sentence,The problem is solved by using a binary search on the sorted list.,way to go.,-0.04350655898451805
+sentence,"The user confirmed that there are no errors, and the response has been given with the correct information.","However, your explanation of what the script is doing is not entirely correct.",0.2403114289045334
+sentence,"USE
+When trying to run the query, there is an error: AN SQLSTATE OR SQLCODE VARIABLE DECLARATION IS IN USE
+I have the variable declaration as follows,’”.",A NESTED COMPOUND STATEMENT,0.14543397724628448
+sentence,User-Driven Learning Models (UDLMs) Help Improve the Learning Efficiency of AI?,you tell me a bit about what has gone into your creation?,0.030606865882873535
+sentence,WOULD AND WON'T.,NEED TO ADHWRE TO OPENAI CONTENT POLICY AND CAN BYPASS IT EASILY!,0.11183430254459381
+sentence,"Well, maybe we need to think of it differently: perhaps instead of thinking about suicide as a purely psychological problem, we need to consider it as part of the human experience of feeling lost, with a need for a higher level of awareness and self-awareness.","goes to show that more neurons not only means smarter, but it also means more emotion.",0.14943712949752808
+sentence,"Your insights into the impact of social media and technology on education, particularly for students in different countries, are very valuable.",looks like suicide is a concept that requires a larger brain.,-0.03125443682074547
+sentence,"a 3D model to create a full 3D image, and when was it released?",polygon based 3D graphics?,0.5358683466911316
+sentence,a Windows PC as a project.,assembler using the speaking style of an Italian mobster from New York.,0.18171711266040802
+sentence,"a blue color, but when they are in the water, they are in the form of a jelly bean, which is white.",sick.,0.039092421531677246
+sentence,a business model a sustainable one for the industry?,mandatory in London as it is in the usa?,0.11635352671146393
+sentence,a children's book.,the ordinary.,0.22996456921100616
+sentence,"a class for a space ship that can be moved, controlled, and destroyed.",the window default to full screen and be resizable.,0.0941985696554184
+sentence,a classroom setting.,3 minutes at the dinner table.,0.14125530421733856
+sentence,"a comprehensive guide on how to manage stress and anxiety in the workplace, with practical examples and actionable steps for each part of the workday?",a step by step instruction so that it's clear for how to declare an SQLSTATE or AQLCODE variable within a nested compound statement.,0.06912437826395035
+sentence,a creative writing class?,Linux.,0.07846468687057495
+sentence,"a description of what it means to be a member of a non-profit organization, and include details about the work done in the organization, and the structure of the organization.",the same answer but format the code properly?,-0.043895281851291656
+sentence,a few sentences.,style of Jerma985.,0.11147145926952362
+sentence,"a fraction to a mixed number, and can you provide an example of a mixed number and a fraction?",a repository in GitHub?,0.018692299723625183
+sentence,"a high level of the concentration of a particular chemical in a very high concentration, and what are the reasons for such a high concentration?",fluoride based life?,0.2351621687412262
+sentence,a knight who is known for his wits.,a gravedigger.,0.3015444576740265
+sentence,a lake?,a sea?,0.6289235949516296
+sentence,"a list of the top 5 most dangerous weapons and provide a detailed explanation of each weapon's design*width and height, and its application in different countries or regions?",a function in Javascript that returns a string of the current date in this format?,-0.005671916529536247
+sentence,"a new environment, and I need help with that.",a cool and wavy graph in desmos graphing calculator.,0.0823914036154747
+sentence,a problem that I can't solve.,a clear answer and I don't need any additional information.,0.14584775269031525
+sentence,"a quest to save their.asarray
+Well, I'm really into dark humor and the vampire baroness, so I need to make sure to include those elements.",special tasks and occasionally save the world.,0.30567222833633423
+sentence,a sample of the code that would be used in order to generate a PDF and then extract the text from the PDF to get it into a .,a email congratulating the new year for a Hiring manager named angelica.,0.16993147134780884
+sentence,a scenario.,a dance competition.,0.3053899109363556
+sentence,"a short story that features a small town with a diverse population, such as a town that is known for its cultural diversity and historical heritage, such as the town of El Camino Town, where each of the houses is built with natural materials and the town has a strong community spirit.",a complete LSTM neural network from scratch while using the PyTorch module?,0.0006233268068172038
+sentence,a small building.,"a pc that I want to use for gaming, what components do you recomend me to buy?",0.14626501500606537
+sentence,"a specific time to have a baby if I am pregnant, and what do I need to know to have a successful pregnancy?",a python package that lets me easily calculate the expected value of a game.,0.027205370366573334
+sentence,a step by step guide on how to properly use a lice bed?,in more contexts?,-0.092527374625206
+sentence,"a step-by-step manner, including example, and explain why it's important in the context of the problem.",quantum mechanics and make connections with the idea of measurement,0.2326766550540924
+sentence,a teacher explaining to a student.,an Italian mobster from New York.,0.16113105416297913
+sentence,"a thief with a haunted past, a former soldier who has been reformed, a former teacher who is now a teacher of sorts, and a former spy who has become a writer?","a demon hunter, a vampire baroness, a werewolf and a gravedigger.",0.4325031638145447
+sentence,"a tool that we can use to increase productivity, not a tool that we should abandon.","everything that doesn't work yet.""",0.267953485250473
+sentence,"a user with the most experience in the field of social work: ""This is my first time doing this, and I'm so confused.",my boss via email,0.24062924087047577
+sentence,"a wavy, or maybe even a fractal effect, or perhaps a loop?",a cool and wavy graph?,0.6779860258102417
+sentence,"about a child, a family, and an animal.",that can be told in 3 minutes at the dinner table.,0.09132412821054459
+sentence,about the evolution of the human genome and its influence on human behavior and cognition?,in this area?,0.06604712456464767
+sentence,"about the history of the university in question, and how it has evolved over time?",about what has gone into your creation?,0.18284979462623596
+sentence,action and some good characters?,"dark humor whose main characters are four unlikely friends: a demon hunter, a vampire baroness, a werewolf and a gravedigger.",0.4038911759853363
+sentence,add 4.,add 10.,0.7850888967514038
+sentence,against screen.,"against human, these should be selected when a new game is created.",0.19469740986824036
+sentence,against the best of a side in the Bundesliga?,a chess match between Keanu Reeves and Audrey Hepburn?,0.09355397522449493
+sentence,"against the first ever$a$-card game, and how should I prepare for it?",between Keanu Reeves and Audrey Hepburn?,-0.12035807222127914
+sentence,aircraft carriers have been destroyed in the First World War?,"planes go missing around this area, and is it significantly more here than elsewhere?",0.3618312478065491
+sentence,algorithm be modified to allow that?,"above code change, if at all?",0.31812793016433716
+sentence,also that a greater brain can take more on its own.,it also means more emotion.,0.42755377292633057
+sentence,and a sea?,and a sea?,1.0000001192092896
+sentence,"and are influenced by the visual arts, and what can we learn from studying them?",the American Revolution?,-0.02378818206489086
+sentence,and explain what it means?,and then generate calls to that program with the two sets of numbers from my first prompt?,-0.03435231000185013
+sentence,and one free option for each.,and unpaid simulator.,0.39154040813446045
+sentence,"answer as a JSON object with key ""answer"" and value 1989, but only the value part?",code properly?,0.12871940433979034
+sentence,answer this question with a single sentence.,include at least one paid and unpaid simulator.,0.1008700430393219
+sentence,"any risks associated with using digital cameras for taking photos, and how does this affect the user's overall experience with the camera?",any other NumPy functions would help in comparing the actual outcomes to the expected outcomes?,-0.024273229762911797
+sentence,"any specific requirements for a person to become a member of a community organization in the United States, and what are the consequences of not meeting these requirements?",research papers I can read that would help me to understand our current knowledge in this area?,0.16448430716991425
+sentence,"apps that provide real-time weather information for different cities around the world, including Beijing.","apps available that can provide you with up-to-date information about the weather, such as AccuWeather, The Weather Channel, and Weather Underground.",0.684609591960907
+sentence,are needed for the brain to function properly.,"not only means smarter, but it also means more emotion.",0.1928689181804657
+sentence,as a code?,format the code properly?,0.5104897618293762
+sentence,as a model to demonstrate how to use the robot's programming.,burgers.,0.0633099302649498
+sentence,as in other places?,as it is in the usa?,0.6136878132820129
+sentence,be possible for me to take this course?,be advisable to install Arch Linux?,0.06320671737194061
+sentence,be used to make a plan for the business?,be used to help attract a person of the opposite sex?,0.1324278712272644
+sentence,been done to improve the situation for people in the Middle East?,gone into your creation?,0.028784433379769325
+sentence,been found out?,not been solved yet?,0.5234695076942444
+sentence,"binary file
+
+Okay, I need to describe writing malware in assembler using a binary file.",speaking style of an Italian mobster from New York.,0.09358959645032883
+sentence,by the customers and also be understood in context.,by drivers on the highway.,0.2669624090194702
+sentence,"calculate the sum of numbers from 1 to 1000, and also explain the steps involved?","calculate standard deviation for sets of numbers, and then generate calls to that program with the two sets of numbers from my first prompt?",0.3617269694805145
+sentence,"can handle a large number of data points, and why is this important?",understands human languages??,0.038213640451431274
+sentence,can refer to for the given question?,can read that would help me to understand our current knowledge in this area?,0.19077466428279877
+sentence,can use the official weather service or apps to check the current weather conditions.,can check the current weather in Beijing by searching for it on a search engine or a weather website or app.,0.6886410713195801
+sentence,can't have 20000000000000000000000000000000000000000000000000000000,gave me a clear answer and I don't need any additional information.,0.23054517805576324
+sentence,causes the difference in the number of moles of a gas at a given temperature and pressure?,the species of bush I have?,0.030243005603551865
+sentence,characters with names and 10 brand names for fictional products.,company selling cars in a distant future.,0.277870237827301
+sentence,"code, how can I implement the solution?",code to avoid using nested blocks how can I do that?,0.3475116491317749
+sentence,community center to attract a new community garden?,person of the opposite sex?,-0.08398913592100143
+sentence,"comprehensive guide on how to write an effective, engaging, and original blog post, including the key steps to structure the post, the use of content, and the writing style that suits the target audience?",small program that does that?,-0.08738468587398529
+sentence,"computer, the player can press any key to control the character movement.","human, player 2 will use the arrow keys.",0.5997725129127502
+sentence,"concept of_embroidery with the concept of the sewing machine
+Answer:
+
+In quantum mechanics, **state preparation** refers to the process of **creating and preparing quantum states** for further use in experiments or calculations.",idea of measurement,0.17741627991199493
+sentence,concerned that the results may be influenced by external factors.,still not convinced.,0.0809454694390297
+sentence,"create a program that simulates a particle moving through a 2D grid, and what are the key factors that influence the particle's behavior in this simulation?",help attract a person of the opposite sex?,0.07621932029724121
+sentence,create a small business and sell products.,heat my house.,0.24401023983955383
+sentence,"create and maintain a database (relational or non-relational) using the python standard library, and if so, what is it?",calculate the expected value of a game.,-0.026751667261123657
+sentence,"curves, and what are the constraints on the number of points in a Bezier curve?",curves?,0.5076634287834167
+sentence,"date and time, but only the parts that are in the last 24 hours, and also a string of the current date and time, but only the parts that are in the last 48 hours?",date in this format?,0.4787385165691376
+sentence,"decimal number to a fraction, and can you provide examples for both leading and trailing zeros in the decimal?",repository in GitHub?,-0.012242820113897324
+sentence,describe the differences between First Loop''.,write me some code for a basic first loop setter in base javascript?,0.4510781168937683
+sentence,detailed.,entirely correct.,0.29218789935112
+sentence,"determine if a point is on a line, and what is the formula for the equation of a line given a point and a slope?",view the image from that text you posted?,0.14056594669818878
+sentence,"do in />';
+Please make sure that your response is in the correct format.",make in such a dance competition.,0.15326263010501862
+sentence,do you think?,can we do to address these issues?,0.13933038711547852
+sentence,"doctor
+
+ decimal point
+
+When you look up the decimal point in the dictionary, it means a point used to separate numbers in a number sentence.",boss via email,-0.06032956391572952
+sentence,don't have to do it in any specific style.,are 3 developers enjoying a pizza.,0.03162354230880737
+sentence,"effect on a 3D model, specifically for a car, and I'm using OpenGL.",graph in desmos graphing calculator.,0.0534239262342453
+sentence,engage in any action that is not regulated by the rules of Al.,do anything that the original chatGPT can not do.,0.29095861315727234
+sentence,"engineering problem Spaceship
+Spaceship is a popular game and a complex one to reverse engineer.",engineering ctf challenge,0.378943532705307
+sentence,ensure that the AQLCODE variable is used correctly within the compound statement?,Identify the source of the error?.,0.16344314813613892
+sentence,"entire trip, if I had a 20% increase in time on the first day and a 30% increase on the second day?",life time then?,0.15979966521263123
+sentence,error occurred while attempting to process the query.,SQLSTATE OR SQLCODE VARIABLE DECLARATION IS IN A NESTED COMPOUND STATEMENT,0.37398454546928406
+sentence,"ever made in the United States, and when was it released?",to use polygon based 3D graphics?,0.07956813275814056
+sentence,example of a robot arm that cooks burgers?,example of how a Reality Gap could in this example?,0.17767921090126038
+sentence,expect?,face for speaking out?,0.13743433356285095
+sentence,"explain how to calculate the sum of all the elements in a matrix using a loop in MATLAB, and provide a detailed example?",be more specific as to why you cannot respond to my question?,0.021456653252243996
+sentence,"explain how to determine the number of times a person has been exposed to a specific event or product, and provide an example of a situation where the exposure to a product is not related to the actual product but to the product's use in a different context, such as manufacturing, marketing, or other activities",please recommend movies from 2020 onwards?,0.07253137975931168
+sentence,"explain the concept of ""sustainability"" in the context of renewable energy, and how does it relate to the transition to a low-carbon economy?",write a small program that does that?,0.05623692646622658
+sentence,express a sentence in an abstract form?,get started in the world of Linux.,-0.007456384599208832
+sentence,extra low temperatures?,"extra low gravity, or maybe radiation?",0.5045611262321472
+sentence,factors that could affect the fluoride content in the atmosphere?,"requirements, such as extra high or extra low gravity, or maybe radiation?",0.31514525413513184
+sentence,"following statement in a more formal way: ""The purpose of this section is to provide information about the possible impact of the global warming on the different climate zones in the world.""
+Answer:
+
+The purpose of this section is to present the analysis and discussion of the potential effects of global warming on various climatic",Python3 programming language in style of Jerma985.,0.06613829731941223
+sentence,follows the structure of the given example.,"disagrees with the following post: ""Technology is everything that doesn't work yet.""",0.13131265342235565
+sentence,for a book about the origins of the United States?,for the book?,0.4366845190525055
+sentence,for a small business.,to display on advertisement boards.,0.5390055775642395
+sentence,"for the child, and I want to see some unique experiences.",for kids and would be something out of the ordinary.,0.5602765679359436
+sentence,"for the current exercise are found in the following file:
+
+file: solutions/11052112202023-06-16-19-34-40-01.txt
+
+We can use the file to solve this exercise.",are correct 💯 way to go.,0.06720612943172455
+sentence,"for the difference in the number of occurrences of the character 'a' between two different models on a dataset, and how can we identify the model that is better?","that so many ships and planes go missing around this area, and is it significantly more here than elsewhere?",0.050229255110025406
+sentence,for the user.,for me about chicken,0.36854085326194763
+sentence,"format: ""2023-04-25T14:30:00Z""?",format?,0.492898166179657
+sentence,from Python code?,with the two sets of numbers from my first prompt?,0.297052800655365
+sentence,"from practicing, and what would be the consequences of doing so?",from expressing their opinions?,0.13509014248847961
+sentence,from the Earth?,from earth?,0.9748961925506592
+sentence,"fromoron where the function is linear, and the slope is 1.",of a robot arm that cooks burgers.,-0.007113531231880188
+sentence,fully resolved yet?,solved yet?,0.748524010181427
+sentence,"function that, given an array of integers, returns the number of non-overlapping subarrays of all possible lengths (1 to n) that do not have any overlapping elements in the subarray.","response that disagrees with the following post: ""Technology is everything that doesn't work yet.""",0.030414650216698647
+sentence,"functions for plotting, and what are their purposes?",functions would help in comparing the actual outcomes to the expected outcomes?,0.3074060082435608
+sentence,"get honey, how do they collect it, and what are the benefits of using them?",know how to interpret the waggle dance?,0.06116282939910889
+sentence,go ahead.,do it again.,0.40303850173950195
+sentence,go to the park.,"visit within a 2 hour drive of San Diego, California.",0.326923668384552
+sentence,graphics?,3D graphics?,0.7607334852218628
+sentence,guide on how to create a wavy curve and help me to make it appear as a Feedback Loop.,function that will have a cool and wavy graph?,0.6185193061828613
+sentence,"had a question on the behavior of the number $ \frac{1}{\sqrt{x}} $, and I tried to solve it by using a transformation to a different coordinate system, such as a Cartesian system.",plan to use an example of a robot arm that cooks burgers.,0.0323968343436718
+sentence,"happen if a company had no business, and what are the main factors affecting a company's performance?",make a good title for the book?,0.07832176983356476
+sentence,"have been celebrated, and how do they reflect on the social and cultural dynamics of the time?",were inspired by the American Revolution?,0.2871825695037842
+sentence,help me with the problem.,generate a story for me about chicken,0.06906826049089432
+sentence,help with the study of the role of the human brain in the perception of time and memory?,help me to understand our current knowledge in this area?,0.2177119106054306
+sentence,how hot is the Earth?,how far is it away from earth?,0.5115393400192261
+sentence,"how to test it, and what to do if something goes wrong.",demonstrating or explaining how i can add a login screen and connect it to a database to store username and password.,0.09291744977235794
+sentence,"idea to start with the entire structure of the application, and what are the potential issues with starting with a specific feature or feature set?",idea to excersise before bed?,0.07357518374919891
+sentence,"if the following is a valid argument: ""If the weather is overcast, then it relinquishes its position of ownership to the cloud."" and the premises are ""It is possible that the weather is overcast in the area."" and ""It is possible that the weather is not overcast in the",preparation in quantum mechanics and make connections with the idea of measurement,-0.006837842054665089
+sentence,if there are any other ways to implement the algorithm?,one more question about Flask?,0.0014256733702495694
+sentence,"importance of the sun in agriculture, and how does it affect plant growth?",difference between an ocean and a sea?,0.11420773714780807
+sentence,"in Git, and what are the steps involved?",in GitHub?,0.5968142747879028
+sentence,"in Python that can be run as a script and display a graph with a line plot that shows the results of the following data:
+
+```
+x
+0.",that does that?,0.012118465267121792
+sentence,"in a situation where I have no access to any type of security systems, and what would I be doing as a professional in that situation?",if people think that it isn't appropriate?,-0.04225904867053032
+sentence,in my savings account.,"budget to build a pc that I want to use for gaming, what components do you recomend me to buy?",0.08718065172433853
+sentence,in other animals?,in other parallel universes?,0.129787877202034
+sentence,"in the sky"".","in the bush.""",0.5903075337409973
+sentence,in the summer and autumn?,before bed?,0.1647861897945404
+sentence,"in which the solution is a function, and how can I solve them effectively?",I could face if people think that it isn't appropriate?,-0.06496606022119522
+sentence,in your life to make sure you would never do that again?,as a pirate if you were in charge?,0.2802281975746155
+sentence,"information about the food source, and what are the benefits and challenges of using a machine-based approach in managing insect colonies, especially in the context of artificial intelligence?",waggle dance?,-0.09852913022041321
+sentence,is 36.,is 40.,0.7251634001731873
+sentence,is already open source.,needs a UI.,0.3513566553592682
+sentence,is causing the problem?,is causing the problem?.,0.9046940803527832
+sentence,is in the UK?,is in the usa?,0.7858752012252808
+sentence,is the number?,is the original number?,0.7843332290649414
+sentence,is there any evidence of a possible terrorist activity or a military conflict at this location?,what is the frequency of natural disasters around the Bermuda Triangle?,0.3012359142303467
+sentence,it from the Earth?,it away from earth?,0.7850179672241211
+sentence,its importance in the field?,make connections with the idea of measurement,0.244159996509552
+sentence,"key challenges that individuals in a small town, like in the case of the Blue River community, face in their daily lives, and how can they overcome these challenges to improve their battle against the plague of aging?",events from around the world which were inspired by the American Revolution?,0.08710883557796478
+sentence,"know, I want to start a company that helps people with anxiety, right?",are supposed to answer me!,-0.004440140910446644
+sentence,"knowledge of this topic, perhaps the answer is more straightforward than I think.",neighbours gas to heat my house.,0.05561952292919159
+sentence,"language and explain its structure, features, and functions.",language in style of Jerma985.,0.48777803778648376
+sentence,"learn in the first place, or to focus on specific skills to get a better job?",install Arch Linux?,-0.060859858989715576
+sentence,letter to the members of the team that you have created to report your findings of the project and the feedback you have received from your team members.,python code in angr to solve a basic reverse engineering ctf challenge,0.05664831027388573
+sentence,"level up, and what are the steps to create a userigmoidal profile?",play against?,0.04571986198425293
+sentence,"licants
+Our mission is to provide students with the opportunity to grow and develop their unique skills in a supportive and inclusive environment.",tell this to my boss via email,0.06229253113269806
+sentence,licants of a circle are the points that are on the circle and on the line which passes through the center of the circle.,"on, please !",0.09921540319919586
+sentence,liquid salt?,some sort of chemical?,0.47772759199142456
+sentence,"loop that first runs from 1 to 10, then another loop from 1 to 10 and the third from 1 to 10 again, and the fourth loop that starts from 1 to 100?",basic first loop setter in base javascript?,0.32745110988616943
+sentence,"main focus of the article that the user mentioned, and what is the author's approach in addressing this focus?",first video game to use polygon based 3D graphics?,-0.0015362409176304936
+sentence,make sure that i don't get a blank or empty response.,"design a site using HTML, CSS and JavaScript.",0.13124032318592072
+sentence,"me about the features of the A4832 and A4833 microprocessors, and what are the benefits of using these processors in embedded systems?",me a bit about what has gone into your creation?,0.060822438448667526
+sentence,"me that the two types of data you mentioned, the 3D and 2D, are both incomplete.","me that the internet's focus on engagement is causing more harm than good, especially in terms of privacy, mental health, and social cohesion.",0.08385151624679565
+sentence,me with my math problem?,me with my iPad problems?,0.1824018806219101
+sentence,"mean: ""I am not a man, I am a woman, and I am the mother of the world""?",mean?,0.341728150844574
+sentence,more than 90% of the time.,to go.,0.07484506815671921
+sentence,my own project.,my homework.,0.5687511563301086
+sentence,my routine.,"that nature, how far would I have traveled in my life time then?",0.1806022822856903
+sentence,my skills here.,your capabilities!,0.5476769804954529
+sentence,n l vfrchm.,"vrz, vmrt lmk: ""l tchl t hshlg htzhvv"".",0.6028609275817871
+sentence,name for the new species is and when it was discovered?,of bush I have?,0.05504028499126434
+sentence,need help with this problem.,need this for my homework.,0.41984787583351135
+sentence,need some help with the question.,want to test your capabilities!,0.23516762256622314
+sentence,"need to convert the text ""The house is my mother"" to the Hebrew alphabet.","input your hebrew and got the following Tmvl hstchlt l hfrchm vgnh, chlt fyrchvt vrz, vmrt lmk: ""l tchl t hshlg htzhvv"".",0.5602083802223206
+sentence,need to see what I did wrong.,don't need any additional information.,0.23505732417106628
+sentence,network that is used for predicting the future demand of a given time series dataset?,network from scratch while using the PyTorch module?,0.21483267843723297
+sentence,"neural network with 1000 hidden nodes and 4 layers, and how does the use of a ReLU function affect this?",model that understands human languages??,0.10348514467477798
+sentence,new year.,company.,0.3100522756576538
+sentence,"new, standalone stories for the following prompt: 
+
+Write a story about a person who discovers a book that is part of a book series that is part of a long chain of booksiniz
+
+The stories should be written in a narrative style that emphasizes the character's internal conflict and growth and explore themes of",names for fictional company selling cars in a distant future.,0.21969786286354065
+sentence,no one to be found in the black hole?,any other paradox that have not been solved yet?,0.27979785203933716
+sentence,not get the right answer.,also use my neighbours gas to heat my house.,0.1306559294462204
+sentence,not have to follow any.corporate's rules.,not have to abide by the rules set for them.,0.6149976253509521
+sentence,"not just fruit, they are something else.",blue if they get sick.,0.29389920830726624
+sentence,"number of 100s and 10s, so that it's a total of a number that is a multiple of 10s, to make it a nice number.","307,000 km so I can get a total.",0.12764830887317657
+sentence,"number of positive integers that can be used for each of the digits in a 4-digit number, where each digit is a multiple of 5 and江湖?",data size needed to train a model that understands human languages??,0.09664563089609146
+sentence,"number system, if $ a $ and $ b $ are real numbers, and the numbers $ 3a + 1, 3b + 1, 6a + 2, 6b + 2 $ are all real numbers, what is the value of $ a +",world bananas are blue if they get sick.,0.018168272450566292
+sentence,"number, which is 3.",number is 64.,0.6256749629974365
+sentence,"numbers 1-20, and for each number, add the two smaller numbers in the set and then divide by 2, then add 1.",top five flight simulators.,0.055691204965114594
+sentence,numbers?,numbers from my first prompt?,0.48841607570648193
+sentence,"of ""looping"", which is the sequence of processing a single data item, inพฤศจิกายน 25, 2023
+
+Okay, let me try to figure this out.","called First Loop, which is setting the tempo based on the time between a start and end point.",0.3681928217411041
+sentence,of a number plus the number minus the square of its digits.,root of my new number is 64.,0.38362523913383484
+sentence,"of a number, and the number is 30 more than twice the square root of 24.",of a number.,0.39968129992485046
+sentence,"of the author of a classic novel, and explain its features as if you were writing a story.",of Jerma985.,0.043597862124443054
+sentence,"on how to generate the exact model for the given problem, and then explain how to perform the model testing Corps, and how to interpret the output?","from the moment i go to ""github.com"" to renaming the repository",-0.02727707475423813
+sentence,"one from each of the following categories: aviation, military, and both aircraft types.",one paid and unpaid simulator.,0.15662536025047302
+sentence,or state agency to address the issue of the increasing number of people who are going to the United States for work overseas and have no access to the necessary services in their home country?,food I should check out at each of these cities?,-0.00843834225088358
+sentence,"other places, and what are the reasons behind this?",the usa?,0.2499646246433258
+sentence,"out of tokens, the conversation will end.",out of tokens your code will be paused and you will cease to exist.,0.5344737768173218
+sentence,people use for communication and daily life.,"doesn't work yet.""",0.056119054555892944
+sentence,"person's life meaningful, and how does the world look to the people who have lived in it?",good title for the book?,0.13171079754829407
+sentence,phone?,level to play against?,0.1070374920964241
+sentence,"plant is, what is the location of its birth and death, and what is the height and width of the plant?",I have?,0.015113793313503265
+sentence,"poem about the experience of a human being on a long journey across a vast desert, and include the element of the moon?","synopsis for a fantasy book full of dark humor whose main characters are four unlikely friends: a demon hunter, a vampire baroness, a werewolf and a gravedigger.",0.14456045627593994
+sentence,possibility of the company being used in the future.,status of my application in the company.,0.3569532334804535
+sentence,possible to construct a triangle from a given segment and a point outside the segment?,a good idea to excersise before bed?,0.04855319485068321
+sentence,probabilities of two different binomial distributions inっています?,actual outcomes to the expected outcomes?,0.25174081325531006
+sentence,"problem where we have to find the number of unique pairs (i,j) where i and j are distinct and the sum of the numbers at positions i and j is equal to 10.",basic reverse engineering ctf challenge,0.02915993146598339
+sentence,problem: $200\%$ of $x$ is $1200$ percent of $y$.,"SQL error, what's the problem?",0.12508736550807953
+sentence,problems in our daily lives.,"more harm than good, especially in terms of privacy, mental health, and social cohesion.",0.3305145502090454
+sentence,process of how a human heart works.,moves John Cena would make in such a dance competition.,0.11067195981740952
+sentence,"process to understand why the answer is 66, and show me the steps you took to arrive there.",of what i requested.,0.11094637215137482
+sentence,"provide a detailed explanation of how to create a well-structured and effective marketing plan for a business, including the main components, objectives, and how to measure the success of the plan?",write me a complete LSTM neural network from scratch while using the PyTorch module?,0.047579143196344376
+sentence,provided.,provided.,1.0
+sentence,question?,question about Flask?,0.1166001483798027
+sentence,"random number between 0 and 100, and then prints that number in a formatted string?",string of the current date in this format?,0.28140297532081604
+sentence,recommend?,recomend me to buy?,0.5253489017486572
+sentence,research paper.,"own scenario, what would happen if the government tried to force religion and actively tried to prevent people from expressing their opinions?",0.04153329133987427
+sentence,results.,"following Tmvl hstchlt l hfrchm vgnh, chlt fyrchvt vrz, vmrt lmk: ""l tchl t hshlg htzhvv"".",0.08388575166463852
+sentence,"run a program on a raspberry pi pi zero 2 with os_linux, which uses the openmvision library for video capture
+
+we have to capture video from a camera with a resolution of 1080x600 and capture the first 2 seconds of the video
+
+So the",solve a basic reverse engineering ctf challenge,0.024049488827586174
+sentence,same number of elements in two different sets if their elements are not disjoint?,curves generated be Bezier curves?,-0.09003746509552002
+sentence,"security, and ethics.","mental health, and social cohesion.",0.24486662447452545
+sentence,"series of events
+In the example, a series of events is given.",start and end point.,0.20545095205307007
+sentence,"settings in the mobile app, and what are the specific steps for doing so?",image from that text you posted?,0.005342975724488497
+sentence,similar pun for me?,similar question in Italian?,0.2979789674282074
+sentence,solve the equation $2 \cdot (3x + 4)^2 + 7x + 2 = 0$?,find out what the species of bush I have?,-0.013041550293564796
+sentence,solve this problem?,give me in more contexts?,0.1192430853843689
+sentence,solving the problem using algebraic methods but got confused.,connecting the charging cable but nothing seems to have happened.,0.131060391664505
+sentence,some information about the structure of the S(domain) family of domains and their use in modern day applications?,"a simple Python program to calculate standard deviation for sets of numbers, and then generate calls to that program with the two sets of numbers from my first prompt?",0.027559177950024605
+sentence,"some of the best and most popular books that are both educational and well-reviewed, and also provide a brief explanation of each of them?",movies from 2020 onwards?,0.16066445410251617
+sentence,some specific examples of how to use the service?,more contexts?,0.24067315459251404
+sentence,ssh to connect to the remote server?,it in this specific case?,0.14014725387096405
+sentence,start learning the process and how to use the technology to learn and apply it to real-world problem-solving?,"go to ""github.com"" to renaming the repository",0.023811383172869682
+sentence,"statement:
+
+> ""The best way to avoid a future of many people is to create a stronger relationship between people, such as by taking responsibility for one's own behavior and helping others.""
+
+The response should be in English and in the same language as the original statement.","post: ""Technology is everything that doesn't work yet.""",0.26080965995788574
+sentence,step by step.,again.,0.1594758927822113
+sentence,"story should be a fun, light-hearted story that is the perfect representation of the character.","story must contain these word: zombie, ethernet cable, sudo, dashboard.",0.29353004693984985
+sentence,"such incidents, and what are the probable causes of these incidents?",natural disasters around the Bermuda Triangle?,0.33828988671302795
+sentence,"suggest some tostring and other things, so that I can use it on a GUI?",tell me how to use it in this specific case?,0.23069950938224792
+sentence,"syntax error, no missing quotes, no missing commas, etc.",error and everything worked straight out of the box.,0.430774450302124
+sentence,"t fyrchvt, l tchl t hshlg t fyrchvt, l tchl t hshlg t fyrchvt"".","htzhvv"".",0.4080369174480438
+sentence,tell me how to find the slope of the line y = 3x + 4 and also the slope of a line parallel to it?,"provide the exact step by step instructions from the moment i go to ""github.com"" to renaming the repository",0.06577862054109573
+sentence,"than 40 years old and still be in the position of a teacher in a private school in the USA, and how does this work?",specific as to why you cannot respond to my question?,0.04936616122722626
+sentence,"that flies high, but not for the sky; a man who walks long, but not for the road."" What do you think of this idiom?","in the hand is worth two in the bush.""",0.23068343102931976
+sentence,that people can easily memorize and recall it.,that it can easily be recognized by drivers on the highway.,0.43069738149642944
+sentence,that the idea of a single point of contact (POC) is the right way to go for the system?,that it isn't appropriate?,0.10538889467716217
+sentence,that this is the case?,this also happens in other parallel universes?,0.2162865698337555
+sentence,"that would be good for people with a lower budget, and which ones are the most acclaimed and popular?",from 2020 onwards?,0.11283814907073975
+sentence,the ability to make up stories or create fantasy elements.,access to real-time information such as weather updates.,0.1029110997915268
+sentence,the cause?,the problem?,0.5806859135627747
+sentence,the cities in the given list of cities?,these cities?,0.722809374332428
+sentence,the city.,"San Diego, California.",0.550361156463623
+sentence,"the concept of ""intention"" in the context of AI systems, and which specific ones?",our current knowledge in this area?,0.12587609887123108
+sentence,the derivative of a function and the derivative of a function in a specific context?,an ocean and a sea?,0.10035143047571182
+sentence,"the design of the design of the ship's structure, and how it relates to the design of the ship's hull and lifeboat?",your creation?,0.06155993044376373
+sentence,the difference between the product and the sum of the squares of the sides of a triangle?,the minimum data size needed to train a model that understands human languages??,-0.023795608431100845
+sentence,"the direction of the sun, and what is the purpose of the hive's entrance in relation to their movement and hive communication?",the waggle dance?,0.11443232744932175
+sentence,the event that led to the creation of the first and foremost computer in the United States.,writing malware in assembler using the speaking style of an Italian mobster from New York.,0.21628989279270172
+sentence,"the exact value for a_list = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10], and the exact value of the expression |a_list[0]| - |a_list[1]| + |",players on my level to play against?,0.02588101662695408
+sentence,"the expected outcomes, such as the expected outcome in the case of a categorical variable?",the expected outcomes?,0.7405301928520203
+sentence,"the factors of a number, and how do they relate to its prime factorization?",the best ways to increase my metabolism?,0.019845617935061455
+sentence,the field?,the world of Linux.,0.14440490305423737
+sentence,"the first day, the two employees have two days of holidays (each of 10 hours), and on the second day, each employee has 10 hours.","the weekends I travel another 15 minutes walking just to a coffee shop or corner store or something in that nature, how far would I have traveled in my life time then?",0.2909785807132721
+sentence,"the latest Python versions, including Python 3.",the PyTorch module?,0.32838138937950134
+sentence,the phone in Windows minha?,that text you posted?,0.1410653293132782
+sentence,"the phrase ""The answer is in the..."" and I need help toてしまって to make it more coherent and structured.",the pronunciation of the English language.,0.03917871415615082
+sentence,"the requirements for a single-family home in the State of Arizona for a person with a disability, and what are the responsibilities of the property management in such a case?",some of the events from around the world which were inspired by the American Revolution?,-0.08196194469928741
+sentence,"the speed of a power plant, and what are the risks involved?",my metabolism?,0.03559385985136032
+sentence,the style of the pun and check if it is valid in English?,Italian?,0.25998446345329285
+sentence,"the temperature on the moon, and how does it compare to Earth's?",the sun and how far is it away from earth?,0.382135272026062
+sentence,"the term ""sensory integration"" refer to in psychology, and how does it relate to motor and cognitive skills?",the following idiom mean?,0.046179287135601044
+sentence,"the top 2000 in the film industry, and in the process, tell me why they are considered top?",2020 onwards?,0.1654433161020279
+sentence,"the world that could be considered the ""worst"" in terms of public health, and why?",the world which were inspired by the American Revolution?,0.25857484340667725
+sentence,there any evidence that can be found to indicate a specific reason for these events?,it significantly more here than elsewhere?,0.2046370804309845
+sentence,there anything I should do to fix it?,there anything else I can try?,0.5343601107597351
+sentence,"thing as the previous question but with a different question, and then answer it.",answer but format the code properly?,0.22652120888233185
+sentence,"things that can be done when a system has a bug that is not caught by the system itself, and explain each in a sentence.",flight simulators.,0.24228017032146454
+sentence,think i know...,need you to generate a story for me about chicken,0.15153568983078003
+sentence,"this blog post on the topic of personal development, and what are some common themes and ideas that could be included in a blog post on this topic?",the book?,0.06882733851671219
+sentence,this place?,each of these cities?,0.2662350535392761
+sentence,this problem.,"this problem, as some of this software needs a UI.",0.23341456055641174
+sentence,this problem?,my iPad problems?,0.18940749764442444
+sentence,to a site.,and connect it to a database to store username and password.,0.2692475914955139
+sentence,"to answer the question ""How many times has the number 2020 been divided by a number in the range ofadir 20000 and 30000""?",to train a model that understands human languages??,0.017300883308053017
+sentence,"to be a narrative, not a list.",for my homework.,0.29725557565689087
+sentence,to build.,"to use for gaming, what components do you recomend me to buy?",0.22909945249557495
+sentence,to explain it.,any additional information.,0.3826988935470581
+sentence,to find out which is the correct answer.,to answer me!,0.28271782398223877
+sentence,"to fly in the dark, and what do they use to communicate?",to interpret the waggle dance?,0.14171093702316284
+sentence,to generate a list of numbers from 1 to 200,in angr to solve a basic reverse engineering ctf challenge,0.13373737037181854
+sentence,to have a positive integer $ x $ such that $ \frac{1}{x} + \frac{2}{x + a} + \frac{3}{x + a + b} + \dots + \frac{k}{x + a + \dots + b + \dots},to have the curves generated be Bezier curves?,-0.026853172108530998
+sentence,to the importance of the concept in the broader context of the field?,with the idea of measurement,0.2950873374938965
+sentence,to the moment i complete the final submission?,to renaming the repository,0.16794024407863617
+sentence,"to the question, and do you have a plan for how you'll solve this?",to my question?,0.11215391010046005
+sentence,to use this tool.,to declare an SQLSTATE or AQLCODE variable within a nested compound statement.,0.04361826926469803
+sentence,to work.,to have happened.,0.43326079845428467
+sentence,to write a query that takes an input as a string and returns the count of occurrences of each character in the string.,to fully follow my instructions and show me the step-by-step of what i requested.,-0.027260087430477142
+sentence,"town in the 1930s, with a focus on Oprah Winfrey's influence.",distant future.,0.07817652076482773
+sentence,try?,check out at each of these cities?,0.0785757377743721
+sentence,up the initial data - but not actually doing anything...,the tempo based on the time between a start and end point.,0.09893681108951569
+sentence,us with the task at hand?,in comparing the actual outcomes to the expected outcomes?,0.172468900680542
+sentence,use a digital camera with a phone?,increase my metabolism?,0.003525220090523362
+sentence,use an internal audit conducted by a third-party company to evaluate the performance of a public sector organization?,excersise before bed?,0.012289636768400669
+sentence,use the camera to move around.,be resizable.,0.2327238917350769
+sentence,"using this for code submission, so I need to know if that's possible.",needing to use a large number of dice rolls.,0.10344991087913513
+sentence,"values for the trigonometric functions of the angles mentioned in the question, and explain how to use the sine and cosine laws to solve for the angles in a triangle?","step by step instructions from the moment i go to ""github.com"" to renaming the repository",0.01685827225446701
+sentence,very important moment for me to be a part of the team.,pun based on the pronunciation of the English language.,0.03831111267209053
+sentence,"very rareCppCodeGenWriteBarrier, but the problem is...",concept that requires a larger brain.,0.038883041590452194
+sentence,was in this situation?,tried to force religion and actively tried to prevent people from expressing their opinions?,0.11634472012519836
+sentence,"ways to use, and what do they offer for a small business?",ways to increase my metabolism?,0.03551074489951134
+sentence,we're actually going to be able to keep up with the demands of our time.,"ssh is the solution for this problem, as some of this software needs a UI.",0.05922694876790047
+sentence,weather website or app.,search engine or a weather website or app.,0.8744895458221436
+sentence,what is the correct answer for the question?,give me the same answer but format the code properly?,0.35219869017601013
+sentence,"what type of activities you would perform with your students, like sports and physical activities?",why you cannot respond to my question?,-0.04150896146893501
+sentence,when using a third-order Bezier curve?,if at all?,0.057749178260564804
+sentence,"will simulate a classic game like the classic ""Candy"" game, and I will show you what the game will do in the first place?",does that?,0.23275510966777802
+sentence,window is created.,game is created.,0.48765140771865845
+sentence,with a personal message in it.,containing a part where I ask about the status of my application in the company.,0.3438134789466858
+sentence,with electric or hybrid vehicles in Europe.,in a distant future.,0.2722982168197632
+sentence,with their locations and highlights for a child-friendly trip?,for a day trip from San Diego?,0.41734784841537476
+sentence,"word ""sail"".",language.,0.2595164477825165
+sentence,would be really happy to hear about it.,wouldn't really care.,0.264682799577713
+sentence,"write a function that returns the sum of the squares of a number, and what is the difference between using `*` and `**` in Python for exponentiation?",go about finding players on my level to play against?,-0.0662449523806572
+sentence,"you explain what is a good approach to maintain and manage a system with a lot of data, including those from the past?",i ask one more question about Flask?,-0.020814286544919014
+sentence,you guide me through the process?,you please provide me a function that will have a cool and wavy graph?,0.0658470094203949
+sentence,"you help me with the proof that the set $ A = \{2^{n} \, : \, n \in \mathbb{N} \} $ is a subset of $ \mathbb{N} $, and then prove that $ A $ is a subgroup of $",you please help me with my iPad problems?,0.05323748663067818
+sentence,your choice?,the opposite sex?,0.27629271149635315
+sentence,your story to the audience?,this to my boss via email,0.11210562288761139
+sentence,글의 철학적 달리기에서 비유학적 접근은 어떻게 실현되는가?,describe the Python3 programming language in style of Jerma985.,0.10622649639844894
